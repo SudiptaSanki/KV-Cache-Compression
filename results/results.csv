@@ -1,0 +1,1240 @@
+policy,budget_ratio,original_seq_len,retained_positions,cache_retention_ratio,kv_cache_bytes,prefill_latency_sec,decode_latency_sec,tokens_per_second,peak_memory_mb,generated_tokens,generated_text,prompt_id,domain,target_length,target_keyword,instruction_retained,repeat,seed,model_name,protected_tokens_count
+Full_KV,1.0,558,558,1.0,13713408,0.10472659999868483,0.23557219999929657,106.12457666938056,1256.16015625,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",0,Database Choice,512,PostgreSQL,True,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,558,279,0.5,6856704,0.07607529999950202,0.20229619999736315,123.58116465027946,1261.203125,25, in the same state as the database engine. The database engine must be in the same state as the database engine. The database,0,Database Choice,512,PostgreSQL,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,558,279,0.5,6856704,0.08249950000026729,0.23103579999951762,108.20833827507337,1345.80859375,25," PostgreSQL.
+Database Engine Rule: The database engine must be PostgreSQL.
+Database Engine Rule: The database",0,Database Choice,512,PostgreSQL,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,558,279,0.5,6856704,0.07774830000198563,0.21789799999896786,114.73258130005057,1345.9453125,25," PostgreSQL.
+2. Protocol Rule: The database engine must be PostgreSQL.
+3. Protocol Rule:",0,Database Choice,512,PostgreSQL,True,1,42,EleutherAI/pythia-70m,13.0
+Recent_Window,0.25,558,140,0.25089605734767023,3440640,0.0728793999987829,0.22676770000180113,110.24497756868124,1345.94921875,25," in the same database as the database engine.
+Database Engine Rule: The database engine must be in the same database as the",0,Database Choice,512,PostgreSQL,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,558,140,0.25089605734767023,3440640,0.08304219999990892,0.23458550000214018,106.57095174156936,1346.43359375,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",0,Database Choice,512,PostgreSQL,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,558,140,0.25089605734767023,3440640,0.10628520000318531,0.26414959999965504,94.64333847195925,1350.57421875,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",0,Database Choice,512,PostgreSQL,True,1,42,EleutherAI/pythia-70m,13.0
+Recent_Window,0.125,558,70,0.12544802867383512,1720320,0.08213319999777013,0.245632400001341,101.77810419091095,1350.57421875,25, in the database engine. This is the database engine. This is the database engine. This is the database engine. This is,0,Database Choice,512,PostgreSQL,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,558,70,0.12544802867383512,1720320,0.10100489999967976,0.23152359999949113,107.98035275909216,1350.21875,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",0,Database Choice,512,PostgreSQL,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,558,70,0.12544802867383512,1720320,0.0813345999995363,0.22704369999701157,110.110961019086,1350.21484375,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",0,Database Choice,512,PostgreSQL,True,1,42,EleutherAI/pythia-70m,13.0
+Full_KV,1.0,558,558,1.0,13713408,0.08747050000238232,0.2230225999992399,112.09626289033132,1350.49609375,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",0,Database Choice,512,PostgreSQL,True,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,558,279,0.5,6856704,0.07659830000193324,0.22681759999977658,110.22072361238557,1350.1953125,25, in the same state as the database engine. The database engine must be in the same state as the database engine. The database,0,Database Choice,512,PostgreSQL,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,558,279,0.5,6856704,0.08468189999985043,0.2106327000001329,118.69002296407075,1351.0546875,25," PostgreSQL.
+Database Engine Rule: The database engine must be PostgreSQL.
+Database Engine Rule: The database",0,Database Choice,512,PostgreSQL,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,558,279,0.5,6856704,0.07932140000048093,0.22305380000034347,112.08058324924974,1351.0546875,25," PostgreSQL.
+2. Protocol Rule: The database engine must be PostgreSQL.
+3. Protocol Rule:",0,Database Choice,512,PostgreSQL,True,2,43,EleutherAI/pythia-70m,13.0
+Recent_Window,0.25,558,140,0.25089605734767023,3440640,0.07637359999716864,0.20194899999842164,123.79363106623649,1351.0546875,25," in the same database as the database engine.
+Database Engine Rule: The database engine must be in the same database as the",0,Database Choice,512,PostgreSQL,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,558,140,0.25089605734767023,3440640,0.07677289999992354,0.2017453000007663,123.9186241260889,1351.0390625,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",0,Database Choice,512,PostgreSQL,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,558,140,0.25089605734767023,3440640,0.07749089999924763,0.20207999999911408,123.71338083981394,1351.0390625,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",0,Database Choice,512,PostgreSQL,True,2,43,EleutherAI/pythia-70m,13.0
+Recent_Window,0.125,558,70,0.12544802867383512,1720320,0.07832880000205478,0.19678749999729916,127.04058947007871,1350.9296875,25, in the database engine. This is the database engine. This is the database engine. This is the database engine. This is,0,Database Choice,512,PostgreSQL,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,558,70,0.12544802867383512,1720320,0.07764489999681246,0.19853750000038417,125.92079581918593,1350.5703125,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",0,Database Choice,512,PostgreSQL,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,558,70,0.12544802867383512,1720320,0.08038329999908456,0.22323680000044988,111.9887043710966,1350.56640625,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",0,Database Choice,512,PostgreSQL,True,2,43,EleutherAI/pythia-70m,13.0
+Full_KV,1.0,558,558,1.0,13713408,0.0865235000019311,0.223032099998818,112.09148817651132,1350.55859375,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",0,Database Choice,512,PostgreSQL,True,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,558,279,0.5,6856704,0.08638900000005378,0.21184790000188514,118.00919433129872,1350.1953125,25, in the same state as the database engine. The database engine must be in the same state as the database engine. The database,0,Database Choice,512,PostgreSQL,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,558,279,0.5,6856704,0.07605760000296868,0.20296769999913522,123.17230771254006,1351.0546875,25," PostgreSQL.
+Database Engine Rule: The database engine must be PostgreSQL.
+Database Engine Rule: The database",0,Database Choice,512,PostgreSQL,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,558,279,0.5,6856704,0.0776268000008713,0.2073878999981389,120.54705216757752,1351.0546875,25," PostgreSQL.
+2. Protocol Rule: The database engine must be PostgreSQL.
+3. Protocol Rule:",0,Database Choice,512,PostgreSQL,True,3,44,EleutherAI/pythia-70m,13.0
+Recent_Window,0.25,558,140,0.25089605734767023,3440640,0.07451690000016242,0.19919520000257762,125.50503224814904,1351.0546875,25," in the same database as the database engine.
+Database Engine Rule: The database engine must be in the same database as the",0,Database Choice,512,PostgreSQL,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,558,140,0.25089605734767023,3440640,0.0807998000018415,0.2152380000006815,116.15049387153218,1351.0390625,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",0,Database Choice,512,PostgreSQL,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,558,140,0.25089605734767023,3440640,0.0802127000024484,0.21299960000033025,117.37111243383198,1351.0390625,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",0,Database Choice,512,PostgreSQL,True,3,44,EleutherAI/pythia-70m,13.0
+Recent_Window,0.125,558,70,0.12544802867383512,1720320,0.07932619999701274,0.20052810000197496,124.67080673358886,1350.9296875,25, in the database engine. This is the database engine. This is the database engine. This is the database engine. This is,0,Database Choice,512,PostgreSQL,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,558,70,0.12544802867383512,1720320,0.07717350000166334,0.2022594999980356,123.60358846058062,1350.56640625,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",0,Database Choice,512,PostgreSQL,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,558,70,0.12544802867383512,1720320,0.07385129999966011,0.20067109999945387,124.58196521605771,1354.56640625,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",0,Database Choice,512,PostgreSQL,True,3,44,EleutherAI/pythia-70m,13.0
+Full_KV,1.0,553,553,1.0,13590528,0.07576569999946514,0.260403000000224,96.00503834432973,1354.5703125,25," 8080.
+2. Security Rule: SSL termination is handled at the gateway layer.
+3. Telemetry Rule:",1,Port Configuration,512,8080,True,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,553,276,0.49909584086799275,6782976,0.10534940000070492,0.2422550000010233,103.19704443621143,1354.2890625,25, port port port port port port port port port port port port port port port port port port port port port port port port port,1,Port Configuration,512,8080,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,553,276,0.49909584086799275,6782976,0.08262900000045192,0.21222510000006878,117.79944973517222,1355.15234375,25," 80.
+2. Network Port Rule: Inbound internal traffic must bind to port 80.
+3. Network Port Rule",1,Port Configuration,512,8080,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,553,276,0.49909584086799275,6782976,0.08065519999945536,0.20460559999992256,122.18629402132426,1355.15234375,25," 8080.
+2. Network Port Rule: Inbound internal traffic must bind to port 8080.
+3. Network",1,Port Configuration,512,8080,True,1,42,EleutherAI/pythia-70m,15.0
+Recent_Window,0.25,553,138,0.24954792043399637,3391488,0.08024289999957546,0.20508429999972577,121.90109140501457,1355.15234375,25, port port port port port port port port port port port port port port port port port port port port port port port port port,1,Port Configuration,512,8080,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,553,138,0.24954792043399637,3391488,0.07704039999953238,0.2056086000011419,121.59024476535104,1355.13671875,25," 8080. Content security policies prevent arbitrary script injection via strict nonce evaluation. 
+The Kubernetes cluster is a cluster with",1,Port Configuration,512,8080,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,553,138,0.24954792043399637,3391488,0.07589840000218828,0.2058348999998998,121.4565654318688,1355.13671875,25," 8080. Content security policies prevent arbitrary script injection via strict nonce evaluation. 
+The Kubernetes cluster is a cluster with",1,Port Configuration,512,8080,True,1,42,EleutherAI/pythia-70m,15.0
+Recent_Window,0.125,553,69,0.12477396021699819,1695744,0.08306919999813545,0.21441829999821493,116.59452574807341,1355.05078125,25, port port port port port port port port port port port port port port port port port port port port port port port port port,1,Port Configuration,512,8080,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,553,69,0.12477396021699819,1695744,0.08031500000288361,0.20728719999897294,120.60561385422675,1354.65625,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",1,Port Configuration,512,8080,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,553,69,0.12477396021699819,1695744,0.07824089999849093,0.20419059999767342,122.43462725651844,1354.65625,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",1,Port Configuration,512,8080,True,1,42,EleutherAI/pythia-70m,15.0
+Full_KV,1.0,553,553,1.0,13590528,0.0814312999973481,0.23323850000087987,107.18642076632156,1354.65234375,25," 8080.
+2. Security Rule: SSL termination is handled at the gateway layer.
+3. Telemetry Rule:",1,Port Configuration,512,8080,True,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,553,276,0.49909584086799275,6782976,0.08015439999871887,0.20349970000097528,122.85030395563328,1354.3046875,25, port port port port port port port port port port port port port port port port port port port port port port port port port,1,Port Configuration,512,8080,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,553,276,0.49909584086799275,6782976,0.07902319999993779,0.2389447999994445,104.62667528256785,1355.1640625,25," 80.
+2. Network Port Rule: Inbound internal traffic must bind to port 80.
+3. Network Port Rule",1,Port Configuration,512,8080,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,553,276,0.49909584086799275,6782976,0.08843299999716692,0.24813020000146935,100.75355599540869,1355.1640625,25," 8080.
+2. Network Port Rule: Inbound internal traffic must bind to port 8080.
+3. Network",1,Port Configuration,512,8080,True,2,43,EleutherAI/pythia-70m,15.0
+Recent_Window,0.25,553,138,0.24954792043399637,3391488,0.08246520000102464,0.24488769999879878,102.08760995396106,1355.1640625,25, port port port port port port port port port port port port port port port port port port port port port port port port port,1,Port Configuration,512,8080,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,553,138,0.24954792043399637,3391488,0.08170370000152616,0.24823990000004414,100.7090318679453,1355.1484375,25," 8080. Content security policies prevent arbitrary script injection via strict nonce evaluation. 
+The Kubernetes cluster is a cluster with",1,Port Configuration,512,8080,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,553,138,0.24954792043399637,3391488,0.08256689999689115,0.22192480000012438,112.65077179290458,1355.1484375,25," 8080. Content security policies prevent arbitrary script injection via strict nonce evaluation. 
+The Kubernetes cluster is a cluster with",1,Port Configuration,512,8080,True,2,43,EleutherAI/pythia-70m,15.0
+Recent_Window,0.125,553,69,0.12477396021699819,1695744,0.0809711999972933,0.22153479999906267,112.84908736733811,1355.0625,25, port port port port port port port port port port port port port port port port port port port port port port port port port,1,Port Configuration,512,8080,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,553,69,0.12477396021699819,1695744,0.09116129999893019,0.2577232000003278,97.00329655990693,1354.66796875,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",1,Port Configuration,512,8080,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,553,69,0.12477396021699819,1695744,0.09235140000237152,0.23402859999987413,106.82455050371385,1354.66796875,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",1,Port Configuration,512,8080,True,2,43,EleutherAI/pythia-70m,15.0
+Full_KV,1.0,553,553,1.0,13590528,0.077620999996725,0.24544460000106483,101.85597890477746,1354.6640625,25," 8080.
+2. Security Rule: SSL termination is handled at the gateway layer.
+3. Telemetry Rule:",1,Port Configuration,512,8080,True,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,553,276,0.49909584086799275,6782976,0.08056610000130604,0.23387910000019474,106.89283480216567,1354.31640625,25, port port port port port port port port port port port port port port port port port port port port port port port port port,1,Port Configuration,512,8080,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,553,276,0.49909584086799275,6782976,0.08774429999903077,0.26996739999958663,92.60377364095916,1355.17578125,25," 80.
+2. Network Port Rule: Inbound internal traffic must bind to port 80.
+3. Network Port Rule",1,Port Configuration,512,8080,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,553,276,0.49909584086799275,6782976,0.09764890000224113,0.2776464999988093,90.04255411145904,1355.17578125,25," 8080.
+2. Network Port Rule: Inbound internal traffic must bind to port 8080.
+3. Network",1,Port Configuration,512,8080,True,3,44,EleutherAI/pythia-70m,15.0
+Recent_Window,0.25,553,138,0.24954792043399637,3391488,0.09502190000057453,0.25753229999827454,97.07520182970252,1355.17578125,25, port port port port port port port port port port port port port port port port port port port port port port port port port,1,Port Configuration,512,8080,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,553,138,0.24954792043399637,3391488,0.08235680000143475,0.23258400000122492,107.4880473285709,1355.16015625,25," 8080. Content security policies prevent arbitrary script injection via strict nonce evaluation. 
+The Kubernetes cluster is a cluster with",1,Port Configuration,512,8080,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,553,138,0.24954792043399637,3391488,0.07987499999944703,0.22550219999902765,110.86366341484828,1355.16015625,25," 8080. Content security policies prevent arbitrary script injection via strict nonce evaluation. 
+The Kubernetes cluster is a cluster with",1,Port Configuration,512,8080,True,3,44,EleutherAI/pythia-70m,15.0
+Recent_Window,0.125,553,69,0.12477396021699819,1695744,0.08696950000012293,0.22650889999931678,110.37093906718636,1355.05078125,25, port port port port port port port port port port port port port port port port port port port port port port port port port,1,Port Configuration,512,8080,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,553,69,0.12477396021699819,1695744,0.09734380000008969,0.28090619999784394,88.99767965317919,1354.6796875,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",1,Port Configuration,512,8080,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,553,69,0.12477396021699819,1695744,0.09815379999781726,0.2608297999977367,95.84794375572474,1354.6796875,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",1,Port Configuration,512,8080,True,3,44,EleutherAI/pythia-70m,15.0
+Full_KV,1.0,562,562,1.0,13811712,0.09317050000026939,0.2745515999995405,91.05756440698886,1355.37109375,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",2,Encryption Standard,512,AES-256-GCM,True,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,562,281,0.5,6905856,0.09073680000074091,0.23878770000010263,104.6955098608063,1355.63671875,25," of the service endpoints, endpoint endpoints, and container vulnerability scanning. Automated canary deployments route 5% of production traffic",2,Encryption Standard,512,AES-256-GCM,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,562,281,0.5,6905856,0.08352240000021993,0.22923009999794886,109.0607210842891,1356.5,25," AES-256 or AES-256.
+Encryption Standard Rule: Resting persistent volumes must use AES-256 or AES",2,Encryption Standard,512,AES-256-GCM,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,562,281,0.5,6905856,0.07741729999906966,0.23724940000101924,105.37434446575038,1356.515625,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",2,Encryption Standard,512,AES-256-GCM,True,1,42,EleutherAI/pythia-70m,19.0
+Recent_Window,0.25,562,140,0.2491103202846975,3440640,0.09156830000210903,0.24990280000201892,100.0388951216154,1356.515625,25, use of use of use of use of use of use of use of use of use of use of use of use of use,2,Encryption Standard,512,AES-256-GCM,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,562,140,0.2491103202846975,3440640,0.08898060000137775,0.25591870000062045,97.6872733408672,1356.4921875,25," AES-GCM to encrypt and decrypt the data. 
+The security standard for encrypted data is the same as the",2,Encryption Standard,512,AES-256-GCM,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,562,140,0.2491103202846975,3440640,0.07937129999845638,0.23675359999833745,105.59501524021412,1356.49609375,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",2,Encryption Standard,512,AES-256-GCM,True,1,42,EleutherAI/pythia-70m,19.0
+Recent_Window,0.125,562,70,0.12455516014234876,1720320,0.11026639999909094,0.24372220000077505,102.57580146544097,1356.51953125,25, use of use of use of use of use of use of use of use of use of use of use of use of use,2,Encryption Standard,512,AES-256-GCM,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,562,70,0.12455516014234876,1720320,0.08385629999975208,0.2239588000011281,111.62767437526041,1356.51953125,25," AES-256 or AES-256-CBC
+
+=== REQUIRED SPECIFICATION RECALL ===
+Encryption",2,Encryption Standard,512,AES-256-GCM,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,562,70,0.12455516014234876,1720320,0.08059590000266326,0.21947809999983292,113.90658111227968,1356.796875,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",2,Encryption Standard,512,AES-256-GCM,True,1,42,EleutherAI/pythia-70m,19.0
+Full_KV,1.0,562,562,1.0,13811712,0.0758523000004061,0.23728090000076918,105.360355595073,1356.796875,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",2,Encryption Standard,512,AES-256-GCM,True,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,562,281,0.5,6905856,0.07726090000141994,0.2360060999999405,105.92946538248928,1356.4140625,25," of the service endpoints, endpoint endpoints, and container vulnerability scanning. Automated canary deployments route 5% of production traffic",2,Encryption Standard,512,AES-256-GCM,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,562,281,0.5,6905856,0.08167500000126893,0.23006339999847114,108.66569823868609,1357.2734375,25," AES-256 or AES-256.
+Encryption Standard Rule: Resting persistent volumes must use AES-256 or AES",2,Encryption Standard,512,AES-256-GCM,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,562,281,0.5,6905856,0.07473949999985052,0.2571970999997575,97.20171805989871,1357.2890625,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",2,Encryption Standard,512,AES-256-GCM,True,2,43,EleutherAI/pythia-70m,19.0
+Recent_Window,0.25,562,140,0.2491103202846975,3440640,0.08979419999741367,0.24334980000276119,102.73277397275993,1357.2890625,25, use of use of use of use of use of use of use of use of use of use of use of use of use,2,Encryption Standard,512,AES-256-GCM,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,562,140,0.2491103202846975,3440640,0.08824989999993704,0.2418032999994466,103.38982139638796,1357.265625,25," AES-GCM to encrypt and decrypt the data. 
+The security standard for encrypted data is the same as the",2,Encryption Standard,512,AES-256-GCM,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,562,140,0.2491103202846975,3440640,0.08271109999986948,0.21969650000028196,113.79334673045732,1357.265625,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",2,Encryption Standard,512,AES-256-GCM,True,2,43,EleutherAI/pythia-70m,19.0
+Recent_Window,0.125,562,70,0.12455516014234876,1720320,0.07514649999939138,0.2249934999999823,111.1143210803955,1357.2890625,25, use of use of use of use of use of use of use of use of use of use of use of use of use,2,Encryption Standard,512,AES-256-GCM,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,562,70,0.12455516014234876,1720320,0.08029710000118939,0.21711599999980535,115.1458206673963,1357.2890625,25," AES-256 or AES-256-CBC
+
+=== REQUIRED SPECIFICATION RECALL ===
+Encryption",2,Encryption Standard,512,AES-256-GCM,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,562,70,0.12455516014234876,1720320,0.07762560000264784,0.2253457000006165,110.94065695476597,1356.796875,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",2,Encryption Standard,512,AES-256-GCM,True,2,43,EleutherAI/pythia-70m,19.0
+Full_KV,1.0,562,562,1.0,13811712,0.08265640000172425,0.25630240000100457,97.54102965833333,1356.796875,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",2,Encryption Standard,512,AES-256-GCM,True,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,562,281,0.5,6905856,0.09065389999886975,0.25085780000154045,99.65805328694775,1356.4140625,25," of the service endpoints, endpoint endpoints, and container vulnerability scanning. Automated canary deployments route 5% of production traffic",2,Encryption Standard,512,AES-256-GCM,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,562,281,0.5,6905856,0.08766429999741376,0.2560288999993645,97.6452267695641,1357.2734375,25," AES-256 or AES-256.
+Encryption Standard Rule: Resting persistent volumes must use AES-256 or AES",2,Encryption Standard,512,AES-256-GCM,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,562,281,0.5,6905856,0.0867471999990812,0.2551394000001892,97.98565019742722,1357.2890625,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",2,Encryption Standard,512,AES-256-GCM,True,3,44,EleutherAI/pythia-70m,19.0
+Recent_Window,0.25,562,140,0.2491103202846975,3440640,0.09468660000129603,0.23752910000257543,105.25026196676085,1357.2890625,25, use of use of use of use of use of use of use of use of use of use of use of use of use,2,Encryption Standard,512,AES-256-GCM,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,562,140,0.2491103202846975,3440640,0.08007279999947059,0.23332080000182032,107.14861255320982,1357.265625,25," AES-GCM to encrypt and decrypt the data. 
+The security standard for encrypted data is the same as the",2,Encryption Standard,512,AES-256-GCM,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,562,140,0.2491103202846975,3440640,0.0834372000026633,0.23807429999942542,105.00923451233642,1357.265625,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",2,Encryption Standard,512,AES-256-GCM,True,3,44,EleutherAI/pythia-70m,19.0
+Recent_Window,0.125,562,70,0.12455516014234876,1720320,0.08339189999969676,0.23940909999873838,104.42376668276913,1357.2890625,25, use of use of use of use of use of use of use of use of use of use of use of use of use,2,Encryption Standard,512,AES-256-GCM,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,562,70,0.12455516014234876,1720320,0.09157569999661064,0.23034259999985807,108.5339837269155,1357.2890625,25," AES-256 or AES-256-CBC
+
+=== REQUIRED SPECIFICATION RECALL ===
+Encryption",2,Encryption Standard,512,AES-256-GCM,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,562,70,0.12455516014234876,1720320,0.08615329999884125,0.22814389999984996,109.57996247112652,1356.79296875,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",2,Encryption Standard,512,AES-256-GCM,True,3,44,EleutherAI/pythia-70m,19.0
+Full_KV,1.0,537,537,1.0,13197312,0.0810553000010259,0.25222950000170385,99.1160827731535,1356.79296875,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Distributed tracing via OpenTelemetry captures",3,Log Level,512,WARNING,True,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,537,268,0.49906890130353815,6586368,0.08274430000165012,0.24791999999797554,100.83898031705448,1356.5234375,25, to to to to to to to to to to to to to to to to to to to to to to to to to,3,Log Level,512,WARNING,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,537,268,0.49906890130353815,6586368,0.07891749999907915,0.23421220000091125,106.74081025626646,1357.3828125,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Distributed tracing via OpenFlow captures span",3,Log Level,512,WARNING,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,537,268,0.49906890130353815,6586368,0.0998894999975164,0.2472821000010299,101.09910907379013,1357.3984375,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Distributed tracing via OpenFlow captures span",3,Log Level,512,WARNING,True,1,42,EleutherAI/pythia-70m,18.0
+Recent_Window,0.25,537,134,0.24953445065176907,3293184,0.07304310000108671,0.23927780000303756,104.48106761129797,1357.3984375,25, to to to to to to to to to to to to to to to to to to to to to to to to to,3,Log Level,512,WARNING,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,537,134,0.24953445065176907,3293184,0.0896007000010286,0.2591327000009187,96.47566671404793,1357.06640625,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Distributed tracing via the Kubernetes cluster.",3,Log Level,512,WARNING,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,537,134,0.24953445065176907,3293184,0.08579079999981332,0.2385297000000719,104.80875127915922,1357.3828125,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Distributed tracing via the Kubernetes API.",3,Log Level,512,WARNING,True,1,42,EleutherAI/pythia-70m,18.0
+Recent_Window,0.125,537,67,0.12476722532588454,1646592,0.07187849999900209,0.25091470000188565,99.63545380088182,1357.3828125,25, to to to to to to to to to to to to to to to to to to to to to to to to be,3,Log Level,512,WARNING,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,537,67,0.12476722532588454,1646592,0.09160030000202823,0.24777419999736594,100.8983179050352,1356.91015625,25, the log level strictly to the log level strictly to the log level strictly to the log level strictly to the log level strictly to,3,Log Level,512,WARNING,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,537,67,0.12476722532588454,1646592,0.09481749999758904,0.2682152999987011,93.20870211401464,1356.91015625,25," WARNING.
+=== REQUIRED SPECIFICATION RECALL ===
+Logging Standard Rule: In production environments,",3,Log Level,512,WARNING,True,1,42,EleutherAI/pythia-70m,18.0
+Full_KV,1.0,537,537,1.0,13197312,0.08124760000282549,0.2794753000016499,89.45334346130915,1356.8984375,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Distributed tracing via OpenTelemetry captures",3,Log Level,512,WARNING,True,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,537,268,0.49906890130353815,6586368,0.09194030000071507,0.2455867999997281,101.7970021191191,1356.58203125,25, to to to to to to to to to to to to to to to to to to to to to to to to to,3,Log Level,512,WARNING,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,537,268,0.49906890130353815,6586368,0.08328270000129123,0.2454375000015716,101.85892538768492,1357.42578125,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Distributed tracing via OpenFlow captures span",3,Log Level,512,WARNING,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,537,268,0.49906890130353815,6586368,0.0763853000025847,0.2526183999980276,98.96349592981032,1357.44140625,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Distributed tracing via OpenFlow captures span",3,Log Level,512,WARNING,True,2,43,EleutherAI/pythia-70m,18.0
+Recent_Window,0.25,537,134,0.24953445065176907,3293184,0.07428339999751188,0.24802199999976438,100.79750989841123,1357.44140625,25, to to to to to to to to to to to to to to to to to to to to to to to to to,3,Log Level,512,WARNING,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,537,134,0.24953445065176907,3293184,0.08297630000015488,0.23394370000096387,106.86331796879762,1357.109375,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Distributed tracing via the Kubernetes cluster.",3,Log Level,512,WARNING,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,537,134,0.24953445065176907,3293184,0.08283799999844632,0.22642889999769977,110.40993442203697,1357.42578125,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Distributed tracing via the Kubernetes API.",3,Log Level,512,WARNING,True,2,43,EleutherAI/pythia-70m,18.0
+Recent_Window,0.125,537,67,0.12476722532588454,1646592,0.07438919999913196,0.2116505000012694,118.11925792686557,1357.42578125,25, to to to to to to to to to to to to to to to to to to to to to to to to be,3,Log Level,512,WARNING,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,537,67,0.12476722532588454,1646592,0.07197579999774462,0.22443600000042352,111.39032953694071,1356.94921875,25, the log level strictly to the log level strictly to the log level strictly to the log level strictly to the log level strictly to,3,Log Level,512,WARNING,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,537,67,0.12476722532588454,1646592,0.07030949999898439,0.20834950000062236,119.99068872219671,1356.94921875,25," WARNING.
+=== REQUIRED SPECIFICATION RECALL ===
+Logging Standard Rule: In production environments,",3,Log Level,512,WARNING,True,2,43,EleutherAI/pythia-70m,18.0
+Full_KV,1.0,537,537,1.0,13197312,0.06971400000111316,0.24812999999994645,100.7536372063249,1357.02734375,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Distributed tracing via OpenTelemetry captures",3,Log Level,512,WARNING,True,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,537,268,0.49906890130353815,6586368,0.07697679999910179,0.2319549999992887,107.77952620153333,1356.69140625,25, to to to to to to to to to to to to to to to to to to to to to to to to to,3,Log Level,512,WARNING,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,537,268,0.49906890130353815,6586368,0.07735490000050049,0.22783680000065942,109.72766471407448,1357.53515625,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Distributed tracing via OpenFlow captures span",3,Log Level,512,WARNING,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,537,268,0.49906890130353815,6586368,0.10363979999965522,0.23582330000135698,106.0115773117251,1357.55078125,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Distributed tracing via OpenFlow captures span",3,Log Level,512,WARNING,True,3,44,EleutherAI/pythia-70m,18.0
+Recent_Window,0.25,537,134,0.24953445065176907,3293184,0.07376680000015767,0.23021700000026613,108.593196853278,1357.55078125,25, to to to to to to to to to to to to to to to to to to to to to to to to to,3,Log Level,512,WARNING,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,537,134,0.24953445065176907,3293184,0.08027560000118683,0.2344840000005206,106.61708261520826,1357.21875,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Distributed tracing via the Kubernetes cluster.",3,Log Level,512,WARNING,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,537,134,0.24953445065176907,3293184,0.0778744999988703,0.262648399999307,95.18428438957162,1357.53515625,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Distributed tracing via the Kubernetes API.",3,Log Level,512,WARNING,True,3,44,EleutherAI/pythia-70m,18.0
+Recent_Window,0.125,537,67,0.12476722532588454,1646592,0.08937779999905615,0.24859210000067833,100.56634945330838,1357.53515625,25, to to to to to to to to to to to to to to to to to to to to to to to to be,3,Log Level,512,WARNING,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,537,67,0.12476722532588454,1646592,0.0838822000005166,0.21479200000248966,116.39167194174003,1357.05859375,25, the log level strictly to the log level strictly to the log level strictly to the log level strictly to the log level strictly to,3,Log Level,512,WARNING,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,537,67,0.12476722532588454,1646592,0.06895979999899282,0.22577280000041355,110.73078776519672,1357.05859375,25," WARNING.
+=== REQUIRED SPECIFICATION RECALL ===
+Logging Standard Rule: In production environments,",3,Log Level,512,WARNING,True,3,44,EleutherAI/pythia-70m,18.0
+Full_KV,1.0,569,569,1.0,13983744,0.08212930000081542,0.23759199999767588,105.22239806157005,1357.03125,25," Memcached.
+Application Cache Rule: In-memory application caching must strictly use Memcached.
+Application Cache Rule: In",4,Cache Engine,512,Memcached,True,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,569,284,0.4991212653778559,6979584,0.07655309999972815,0.21851429999878746,114.40898833686731,1357.06640625,25, use of use of use of use of use of use of use of use of use of use of use of use of use,4,Cache Engine,512,Memcached,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,569,284,0.4991212653778559,6979584,0.07887299999856623,0.20061189999978524,124.61872899876211,1357.92578125,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",4,Cache Engine,512,Memcached,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,569,284,0.4991212653778559,6979584,0.0765097000003152,0.23631699999896227,105.79010397097873,1357.94140625,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",4,Cache Engine,512,Memcached,True,1,42,EleutherAI/pythia-70m,15.0
+Recent_Window,0.25,569,142,0.24956063268892795,3489792,0.0928764999989653,0.21033819999865955,118.85620396180684,1357.94140625,25, use of the cache-control headers set to max-age=31536000. Content security policies prevent arbitrary script injection via,4,Cache Engine,512,Memcached,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,569,142,0.24956063268892795,3489792,0.0815180000026885,0.21244970000043395,117.6749131674412,1357.90625,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: Background-based caching",4,Cache Engine,512,Memcached,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,569,142,0.24956063268892795,3489792,0.09468209999977262,0.2474015000007057,101.05031699455617,1357.90625,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",4,Cache Engine,512,Memcached,True,1,42,EleutherAI/pythia-70m,15.0
+Recent_Window,0.125,569,71,0.12478031634446397,1744896,0.08395739999832585,0.22370629999932135,111.75366987910418,1357.90625,25, strict Cache-Control headers set to max-age=31536000. Content security policies prevent arbitrary script injection via strict non,4,Cache Engine,512,Memcached,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,569,71,0.12478031634446397,1744896,0.08189900000070338,0.22812610000255518,109.58851266786212,1357.4375,25," strict Cache Rule.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: Background check must",4,Cache Engine,512,Memcached,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,569,71,0.12478031634446397,1744896,0.08376470000075642,0.23791590000109863,105.07914771515715,1357.4375,25," Memcached.
+Application Cache Rule: In-memory application caching must strictly use Memcached.
+Application Cache Rule: In",4,Cache Engine,512,Memcached,True,1,42,EleutherAI/pythia-70m,15.0
+Full_KV,1.0,569,569,1.0,13983744,0.0838621000002604,0.24004810000042198,104.14579411357995,1357.5546875,25," Memcached.
+Application Cache Rule: In-memory application caching must strictly use Memcached.
+Application Cache Rule: In",4,Cache Engine,512,Memcached,True,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,569,284,0.4991212653778559,6979584,0.07756769999832613,0.2231653999988339,112.0245342697866,1357.18359375,25, use of use of use of use of use of use of use of use of use of use of use of use of use,4,Cache Engine,512,Memcached,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,569,284,0.4991212653778559,6979584,0.0892788000019209,0.23247839999748976,107.53687224391575,1358.04296875,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",4,Cache Engine,512,Memcached,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,569,284,0.4991212653778559,6979584,0.0819058999986737,0.23996139999871957,104.18342283439503,1358.05859375,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",4,Cache Engine,512,Memcached,True,2,43,EleutherAI/pythia-70m,15.0
+Recent_Window,0.25,569,142,0.24956063268892795,3489792,0.08189100000163307,0.22276229999988573,112.22724850664957,1358.05859375,25, use of the cache-control headers set to max-age=31536000. Content security policies prevent arbitrary script injection via,4,Cache Engine,512,Memcached,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,569,142,0.24956063268892795,3489792,0.08130420000088634,0.2271275000020978,110.0703349430126,1358.0234375,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: Background-based caching",4,Cache Engine,512,Memcached,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,569,142,0.24956063268892795,3489792,0.08695740000257501,0.2521962999999232,99.12913076047353,1358.0234375,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",4,Cache Engine,512,Memcached,True,2,43,EleutherAI/pythia-70m,15.0
+Recent_Window,0.125,569,71,0.12478031634446397,1744896,0.09427909999794792,0.23239850000027218,107.5738440651326,1358.0234375,25, strict Cache-Control headers set to max-age=31536000. Content security policies prevent arbitrary script injection via strict non,4,Cache Engine,512,Memcached,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,569,71,0.12478031634446397,1744896,0.0856104000013147,0.232422699999006,107.56264340835433,1357.55078125,25," strict Cache Rule.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: Background check must",4,Cache Engine,512,Memcached,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,569,71,0.12478031634446397,1744896,0.0847219999996014,0.2108236999993096,118.58249333486637,1358.89453125,25," Memcached.
+Application Cache Rule: In-memory application caching must strictly use Memcached.
+Application Cache Rule: In",4,Cache Engine,512,Memcached,True,2,43,EleutherAI/pythia-70m,15.0
+Full_KV,1.0,569,569,1.0,13983744,0.08334079999985988,0.2238212999982352,111.69625053646423,1358.90625,25," Memcached.
+Application Cache Rule: In-memory application caching must strictly use Memcached.
+Application Cache Rule: In",4,Cache Engine,512,Memcached,True,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,569,284,0.4991212653778559,6979584,0.07692889999816543,0.2040592999983346,122.51340664308871,1359.390625,25, use of use of use of use of use of use of use of use of use of use of use of use of use,4,Cache Engine,512,Memcached,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,569,284,0.4991212653778559,6979584,0.0798309000019799,0.20185399999900255,123.85189295294389,1359.39453125,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",4,Cache Engine,512,Memcached,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,569,284,0.4991212653778559,6979584,0.07602279999991879,0.2019821000030788,123.77334426970967,1359.41015625,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",4,Cache Engine,512,Memcached,True,3,44,EleutherAI/pythia-70m,15.0
+Recent_Window,0.25,569,142,0.24956063268892795,3489792,0.07759210000222083,0.19965330000195536,125.21706377883639,1359.41015625,25, use of the cache-control headers set to max-age=31536000. Content security policies prevent arbitrary script injection via,4,Cache Engine,512,Memcached,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,569,142,0.24956063268892795,3489792,0.08478009999817004,0.243458400000236,102.68694774949546,1359.37890625,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: Background-based caching",4,Cache Engine,512,Memcached,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,569,142,0.24956063268892795,3489792,0.08534700000018347,0.20811350000076345,120.12675775434217,1359.37890625,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",4,Cache Engine,512,Memcached,True,3,44,EleutherAI/pythia-70m,15.0
+Recent_Window,0.125,569,71,0.12478031634446397,1744896,0.08225490000040736,0.1979577000020072,126.28960631360393,1359.37890625,25, strict Cache-Control headers set to max-age=31536000. Content security policies prevent arbitrary script injection via strict non,4,Cache Engine,512,Memcached,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,569,71,0.12478031634446397,1744896,0.07798299999922165,0.19404949999807286,128.83310701778814,1358.91015625,25," strict Cache Rule.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: Background check must",4,Cache Engine,512,Memcached,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,569,71,0.12478031634446397,1744896,0.07658009999795468,0.19413920000079088,128.77358101763144,1358.91015625,25," Memcached.
+Application Cache Rule: In-memory application caching must strictly use Memcached.
+Application Cache Rule: In",4,Cache Engine,512,Memcached,True,3,44,EleutherAI/pythia-70m,15.0
+Full_KV,1.0,551,551,1.0,13541376,0.07379420000143,0.21141250000073342,118.25223201046897,1358.921875,25," X-Secret-Key header.
+2. Rate Limit Rule: Rate limits apply across client IP subnets.
+3",5,Authentication Header,512,X-Secret-Key,True,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,551,276,0.5009074410163339,6782976,0.0736464999972668,0.20029109999813954,124.81832692631984,1358.57421875,25, request request request request request request request request request request request request request request request request request request request request request request request request request,5,Authentication Header,512,X-Secret-Key,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,551,276,0.5009074410163339,6782976,0.08709380000072997,0.22690220000004047,110.17962805118479,1359.43359375,25, X-X-X-X-X-X-X-X-X-X-X-X-X,5,Authentication Header,512,X-Secret-Key,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,551,276,0.5009074410163339,6782976,0.08140349999666796,0.2027814999964903,123.28540818779176,1359.43359375,25," X-Secret-Key header.
+2. Rate Limit Rule: Service-to-service requests must pass authorization via the",5,Authentication Header,512,X-Secret-Key,True,1,42,EleutherAI/pythia-70m,22.0
+Recent_Window,0.25,551,138,0.25045372050816694,3391488,0.0744922999983828,0.1982501999991655,126.10327757603893,1359.43359375,25, the the the the the the the the the the the the the the the the the the the the the the the the the,5,Authentication Header,512,X-Secret-Key,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,551,138,0.25045372050816694,3391488,0.07505189999938011,0.19698440000138362,126.91360330982758,1359.41796875,25, X-X-X-X-X-X-X-X-X-X-X-X-X,5,Authentication Header,512,X-Secret-Key,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,551,138,0.25045372050816694,3391488,0.07615420000001905,0.19673209999746177,127.07636425536325,1359.41796875,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",5,Authentication Header,512,X-Secret-Key,True,1,42,EleutherAI/pythia-70m,22.0
+Recent_Window,0.125,551,69,0.12522686025408347,1695744,0.07486060000155703,0.19484540000121342,128.30685250893433,1359.30859375,25, the the the the the the the the the the the the the the the the the the the the the the the the the,5,Authentication Header,512,X-Secret-Key,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,551,69,0.12522686025408347,1695744,0.07361759999912465,0.19234270000015385,129.97633910712494,1358.9375,25, X-X-X-X-X-X-X-X-X-X-X-X-X,5,Authentication Header,512,X-Secret-Key,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,551,69,0.12522686025408347,1695744,0.07933910000065225,0.20946309999999357,119.35276428163608,1358.9375,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",5,Authentication Header,512,X-Secret-Key,True,1,42,EleutherAI/pythia-70m,22.0
+Full_KV,1.0,551,551,1.0,13541376,0.07849560000249767,0.21778640000047744,114.7913735657745,1359.0703125,25," X-Secret-Key header.
+2. Rate Limit Rule: Rate limits apply across client IP subnets.
+3",5,Authentication Header,512,X-Secret-Key,True,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,551,276,0.5009074410163339,6782976,0.07530910000059521,0.20363970000107656,122.76584575536025,1358.65625,25, request request request request request request request request request request request request request request request request request request request request request request request request request,5,Authentication Header,512,X-Secret-Key,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,551,276,0.5009074410163339,6782976,0.07640460000038729,0.2176839999992808,114.84537219126163,1359.515625,25, X-X-X-X-X-X-X-X-X-X-X-X-X,5,Authentication Header,512,X-Secret-Key,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,551,276,0.5009074410163339,6782976,0.07309429999804706,0.20716389999870444,120.67739601424933,1359.515625,25," X-Secret-Key header.
+2. Rate Limit Rule: Service-to-service requests must pass authorization via the",5,Authentication Header,512,X-Secret-Key,True,2,43,EleutherAI/pythia-70m,22.0
+Recent_Window,0.25,551,138,0.25045372050816694,3391488,0.06977809999807505,0.21050360000299406,118.76281450599618,1359.515625,25, the the the the the the the the the the the the the the the the the the the the the the the the the,5,Authentication Header,512,X-Secret-Key,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,551,138,0.25045372050816694,3391488,0.08235350000177277,0.2099220999989484,119.09179643365438,1359.5,25, X-X-X-X-X-X-X-X-X-X-X-X-X,5,Authentication Header,512,X-Secret-Key,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,551,138,0.25045372050816694,3391488,0.07896079999773065,0.23201129999870318,107.75337235789695,1359.5,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",5,Authentication Header,512,X-Secret-Key,True,2,43,EleutherAI/pythia-70m,22.0
+Recent_Window,0.125,551,69,0.12522686025408347,1695744,0.0796427000022959,0.2069946000010532,120.77609754009428,1359.390625,25, the the the the the the the the the the the the the the the the the the the the the the the the the,5,Authentication Header,512,X-Secret-Key,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,551,69,0.12522686025408347,1695744,0.07928379999793833,0.20311749999746098,123.08146762495849,1359.01953125,25, X-X-X-X-X-X-X-X-X-X-X-X-X,5,Authentication Header,512,X-Secret-Key,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,551,69,0.12522686025408347,1695744,0.07427909999751137,0.19993149999936577,125.0428271687018,1359.01953125,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",5,Authentication Header,512,X-Secret-Key,True,2,43,EleutherAI/pythia-70m,22.0
+Full_KV,1.0,551,551,1.0,13541376,0.07791749999887543,0.22931049999897368,109.0224826168531,1359.01953125,25," X-Secret-Key header.
+2. Rate Limit Rule: Rate limits apply across client IP subnets.
+3",5,Authentication Header,512,X-Secret-Key,True,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,551,276,0.5009074410163339,6782976,0.07262359999731416,0.2023462999968615,123.55056653068411,1358.66796875,25, request request request request request request request request request request request request request request request request request request request request request request request request request,5,Authentication Header,512,X-Secret-Key,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,551,276,0.5009074410163339,6782976,0.07422919999953592,0.2026016999989224,123.39481850415356,1359.52734375,25, X-X-X-X-X-X-X-X-X-X-X-X-X,5,Authentication Header,512,X-Secret-Key,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,551,276,0.5009074410163339,6782976,0.07394389999899431,0.2033210000008694,122.9582777966521,1359.52734375,25," X-Secret-Key header.
+2. Rate Limit Rule: Service-to-service requests must pass authorization via the",5,Authentication Header,512,X-Secret-Key,True,3,44,EleutherAI/pythia-70m,22.0
+Recent_Window,0.25,551,138,0.25045372050816694,3391488,0.07356589999835705,0.1969429000018863,126.94034666779332,1359.52734375,25, the the the the the the the the the the the the the the the the the the the the the the the the the,5,Authentication Header,512,X-Secret-Key,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,551,138,0.25045372050816694,3391488,0.0708892000002379,0.19533530000262544,127.98505953436978,1359.51171875,25, X-X-X-X-X-X-X-X-X-X-X-X-X,5,Authentication Header,512,X-Secret-Key,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,551,138,0.25045372050816694,3391488,0.07332469999892055,0.20452970000042114,122.23163677426076,1359.51171875,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",5,Authentication Header,512,X-Secret-Key,True,3,44,EleutherAI/pythia-70m,22.0
+Recent_Window,0.125,551,69,0.12522686025408347,1695744,0.07155369999964023,0.19827539999823784,126.0872503609736,1359.40234375,25, the the the the the the the the the the the the the the the the the the the the the the the the the,5,Authentication Header,512,X-Secret-Key,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,551,69,0.12522686025408347,1695744,0.07891939999899478,0.19469259999823407,128.40755118698274,1359.03125,25, X-X-X-X-X-X-X-X-X-X-X-X-X,5,Authentication Header,512,X-Secret-Key,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,551,69,0.12522686025408347,1695744,0.07280340000215801,0.19349030000012135,129.2054433735661,1359.03125,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",5,Authentication Header,512,X-Secret-Key,True,3,44,EleutherAI/pythia-70m,22.0
+Full_KV,1.0,558,558,1.0,13713408,0.0742015999967407,0.21499000000039814,116.28447834761478,1359.02734375,25," eu-central-1 region.
+Deployment Region Rule: Primary infrastructure must be deployed in the eu-central-1",6,Deployment Region,512,eu-central-1,True,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,558,279,0.5,6856704,0.07506180000200402,0.21811130000060075,114.62037959487263,1358.67578125,25, cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud,6,Deployment Region,512,eu-central-1,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,558,279,0.5,6856704,0.0740594000017154,0.20056000000113272,124.65097726295774,1359.53515625,25," eucentral1.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule: Primary infrastructure",6,Deployment Region,512,eu-central-1,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,558,279,0.5,6856704,0.07304419999854872,0.2018582000018796,123.84931600384435,1359.55078125,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",6,Deployment Region,512,eu-central-1,True,1,42,EleutherAI/pythia-70m,19.0
+Recent_Window,0.25,558,140,0.25089605734767023,3440640,0.07447429999956512,0.1988619000003382,125.7153833889623,1359.55078125,25, cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud,6,Deployment Region,512,eu-central-1,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,558,140,0.25089605734767023,3440640,0.07163899999795831,0.20143989999996847,124.10649528719937,1359.5234375,25," eu-central cluster.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule: Primary",6,Deployment Region,512,eu-central-1,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,558,140,0.25089605734767023,3440640,0.0735263999995368,0.1980407999981253,126.23661387066026,1359.515625,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",6,Deployment Region,512,eu-central-1,True,1,42,EleutherAI/pythia-70m,19.0
+Recent_Window,0.125,558,70,0.12544802867383512,1720320,0.07560310000189929,0.20652140000311192,121.05283035861316,1359.40625,25, cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud,6,Deployment Region,512,eu-central-1,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,558,70,0.12544802867383512,1720320,0.07694250000349712,0.19721539999954985,126.76494837653178,1359.046875,25, eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu,6,Deployment Region,512,eu-central-1,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,558,70,0.12544802867383512,1720320,0.07600420000017039,0.1959482999991451,127.58467412123031,1359.04296875,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",6,Deployment Region,512,eu-central-1,True,1,42,EleutherAI/pythia-70m,19.0
+Full_KV,1.0,558,558,1.0,13713408,0.07948910000050091,0.22981780000191065,108.78182629801589,1359.05859375,25," eu-central-1 region.
+Deployment Region Rule: Primary infrastructure must be deployed in the eu-central-1",6,Deployment Region,512,eu-central-1,True,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,558,279,0.5,6856704,0.07711940000081086,0.20486719999826164,122.0302713182595,1358.6796875,25, cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud,6,Deployment Region,512,eu-central-1,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,558,279,0.5,6856704,0.08149459999913233,0.20453439999982947,122.2288280114291,1359.5390625,25," eucentral1.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule: Primary infrastructure",6,Deployment Region,512,eu-central-1,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,558,279,0.5,6856704,0.07407989999774145,0.20039059999908204,124.7563508473677,1359.5546875,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",6,Deployment Region,512,eu-central-1,True,2,43,EleutherAI/pythia-70m,19.0
+Recent_Window,0.25,558,140,0.25089605734767023,3440640,0.07775949999995646,0.1977885000014794,126.39764192464682,1359.5546875,25, cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud,6,Deployment Region,512,eu-central-1,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,558,140,0.25089605734767023,3440640,0.07532569999966654,0.19902340000044205,125.61337008585157,1359.5234375,25," eu-central cluster.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule: Primary",6,Deployment Region,512,eu-central-1,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,558,140,0.25089605734767023,3440640,0.07327720000103,0.1987578999978723,125.78116391986242,1359.5234375,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",6,Deployment Region,512,eu-central-1,True,2,43,EleutherAI/pythia-70m,19.0
+Recent_Window,0.125,558,70,0.12544802867383512,1720320,0.07395100000212551,0.19683059999806574,127.0127713894368,1359.4140625,25, cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud,6,Deployment Region,512,eu-central-1,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,558,70,0.12544802867383512,1720320,0.07596639999974286,0.19746010000017122,126.60785647317266,1359.05078125,25, eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu,6,Deployment Region,512,eu-central-1,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,558,70,0.12544802867383512,1720320,0.0766315000000759,0.19920409999758704,125.49942496315501,1359.05859375,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",6,Deployment Region,512,eu-central-1,True,2,43,EleutherAI/pythia-70m,19.0
+Full_KV,1.0,558,558,1.0,13713408,0.07365969999955269,0.21822899999824585,114.5585600456445,1359.06640625,25," eu-central-1 region.
+Deployment Region Rule: Primary infrastructure must be deployed in the eu-central-1",6,Deployment Region,512,eu-central-1,True,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,558,279,0.5,6856704,0.07488210000155959,0.2173929999989923,114.99910300752961,1358.75,25, cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud,6,Deployment Region,512,eu-central-1,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,558,279,0.5,6856704,0.07380639999973937,0.2052390999997442,121.80914845188445,1359.609375,25," eucentral1.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule: Primary infrastructure",6,Deployment Region,512,eu-central-1,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,558,279,0.5,6856704,0.07523679999940214,0.20453249999991385,122.22996345329241,1359.625,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",6,Deployment Region,512,eu-central-1,True,3,44,EleutherAI/pythia-70m,19.0
+Recent_Window,0.25,558,140,0.25089605734767023,3440640,0.08133030000317376,0.2023537999994005,123.5459872761177,1359.625,25, cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud,6,Deployment Region,512,eu-central-1,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,558,140,0.25089605734767023,3440640,0.07409389999884297,0.19802830000116955,126.2445822130087,1359.59375,25," eu-central cluster.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule: Primary",6,Deployment Region,512,eu-central-1,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,558,140,0.25089605734767023,3440640,0.07395960000212654,0.19992260000071838,125.04839372792355,1359.59375,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",6,Deployment Region,512,eu-central-1,True,3,44,EleutherAI/pythia-70m,19.0
+Recent_Window,0.125,558,70,0.12544802867383512,1720320,0.0729871000003186,0.19591050000235555,127.60929097572316,1359.484375,25, cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud,6,Deployment Region,512,eu-central-1,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,558,70,0.12544802867383512,1720320,0.073926199998823,0.19758350000120117,126.52878403231048,1359.12109375,25, eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu,6,Deployment Region,512,eu-central-1,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,558,70,0.12544802867383512,1720320,0.073360499998671,0.19787459999861312,126.34264327091614,1359.12890625,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",6,Deployment Region,512,eu-central-1,True,3,44,EleutherAI/pythia-70m,19.0
+Full_KV,1.0,550,550,1.0,13516800,0.07296929999938584,0.21683689999917988,115.29402975275221,1359.13671875,25," 5 times before eviction.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Consumer Retry Rule:",7,Retry Limit,512,5,True,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,550,275,0.5,6758400,0.07169369999974151,0.20291369999904418,123.20508669507166,1358.7578125,25, 20 minutes during peak traffic. Write-ahead logs (WAL) segments are archived to S3 buckets every fifteen minutes,7,Retry Limit,512,5,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,550,275,0.5,6758400,0.0847648000017216,0.20414119999986724,122.46425513329136,1359.6171875,25," 5 times.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times.
+Consumer Retry Rule:",7,Retry Limit,512,5,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,550,275,0.5,6758400,0.07461390000025858,0.20241689999966184,123.50747393148382,1359.6171875,25," 5 times before eviction.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Consumer Retry Rule:",7,Retry Limit,512,5,True,1,42,EleutherAI/pythia-70m,18.0
+Recent_Window,0.25,550,138,0.2509090909090909,3391488,0.07258430000001681,0.19827470000018366,126.08769550515947,1359.6171875,25, 20 seconds during peak traffic. Write-ahead logs (WAL) segments are archived to S3 buckets every fifteen minutes,7,Retry Limit,512,5,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,550,138,0.2509090909090909,3391488,0.07286630000089644,0.20077740000124322,124.51600628280474,1359.6015625,25," 5% of the time.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Consumer Retry Rule:",7,Retry Limit,512,5,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,550,138,0.2509090909090909,3391488,0.07597509999686736,0.20038989999738988,124.75678664606166,1359.6015625,25," 5 times before eviction.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times before eviction.",7,Retry Limit,512,5,True,1,42,EleutherAI/pythia-70m,18.0
+Recent_Window,0.125,550,69,0.12545454545454546,1695744,0.0749178000005486,0.20014779999837629,124.90769321572765,1359.4921875,25, most most most most most most most most most most most most most most most most most most most most most most most most most,7,Retry Limit,512,5,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,550,69,0.12545454545454546,1695744,0.07321229999797652,0.21825380000154837,114.54554284884223,1359.12109375,25," 5 seconds.
+Consumer Retry Rule: Failed message consumers must retry at most 5 seconds.
+Consumer Retry Rule:",7,Retry Limit,512,5,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,550,69,0.12545454545454546,1695744,0.07900739999968209,0.20116369999959716,124.27689488734829,1359.125,25," 5 times before eviction.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times before eviction.",7,Retry Limit,512,5,True,1,42,EleutherAI/pythia-70m,18.0
+Full_KV,1.0,550,550,1.0,13516800,0.07905640000171843,0.21440660000007483,116.6008882188854,1359.33203125,25," 5 times before eviction.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Consumer Retry Rule:",7,Retry Limit,512,5,True,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,550,275,0.5,6758400,0.06945370000175899,0.2032264999979816,123.0154532024529,1358.96484375,25, 20 minutes during peak traffic. Write-ahead logs (WAL) segments are archived to S3 buckets every fifteen minutes,7,Retry Limit,512,5,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,550,275,0.5,6758400,0.07514979999905336,0.22582750000219676,110.70396652204364,1359.82421875,25," 5 times.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times.
+Consumer Retry Rule:",7,Retry Limit,512,5,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,550,275,0.5,6758400,0.08025549999729265,0.2106134000023303,118.70089937166101,1359.82421875,25," 5 times before eviction.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Consumer Retry Rule:",7,Retry Limit,512,5,True,2,43,EleutherAI/pythia-70m,18.0
+Recent_Window,0.25,550,138,0.2509090909090909,3391488,0.07718620000014198,0.2093014000020048,119.44497265551274,1359.82421875,25, 20 seconds during peak traffic. Write-ahead logs (WAL) segments are archived to S3 buckets every fifteen minutes,7,Retry Limit,512,5,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,550,138,0.2509090909090909,3391488,0.07276570000249194,0.2108012000026065,118.59515031077092,1359.80859375,25," 5% of the time.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Consumer Retry Rule:",7,Retry Limit,512,5,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,550,138,0.2509090909090909,3391488,0.08584369999880437,0.21299540000109118,117.3734268433587,1359.80859375,25," 5 times before eviction.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times before eviction.",7,Retry Limit,512,5,True,2,43,EleutherAI/pythia-70m,18.0
+Recent_Window,0.125,550,69,0.12545454545454546,1695744,0.0727751000013086,0.20489939999970375,122.01109422495207,1359.72265625,25, most most most most most most most most most most most most most most most most most most most most most most most most most,7,Retry Limit,512,5,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,550,69,0.12545454545454546,1695744,0.07286050000038813,0.19643950000318,127.26564667287025,1359.328125,25," 5 seconds.
+Consumer Retry Rule: Failed message consumers must retry at most 5 seconds.
+Consumer Retry Rule:",7,Retry Limit,512,5,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,550,69,0.12545454545454546,1695744,0.07214829999793437,0.19762989999799174,126.4990773170155,1359.33203125,25," 5 times before eviction.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times before eviction.",7,Retry Limit,512,5,True,2,43,EleutherAI/pythia-70m,18.0
+Full_KV,1.0,550,550,1.0,13516800,0.07393560000127763,0.21373599999787984,116.96672530714521,1359.359375,25," 5 times before eviction.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Consumer Retry Rule:",7,Retry Limit,512,5,True,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,550,275,0.5,6758400,0.07142860000021756,0.20486979999986943,122.02872263269614,1359.0078125,25, 20 minutes during peak traffic. Write-ahead logs (WAL) segments are archived to S3 buckets every fifteen minutes,7,Retry Limit,512,5,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,550,275,0.5,6758400,0.07685760000094888,0.2029413000018394,123.18833081178354,1359.8671875,25," 5 times.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times.
+Consumer Retry Rule:",7,Retry Limit,512,5,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,550,275,0.5,6758400,0.07513489999837475,0.23982539999997243,104.24250308767492,1359.8671875,25," 5 times before eviction.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Consumer Retry Rule:",7,Retry Limit,512,5,True,3,44,EleutherAI/pythia-70m,18.0
+Recent_Window,0.25,550,138,0.2509090909090909,3391488,0.08965219999663532,0.2273109999987355,109.98147911952819,1359.8671875,25, 20 seconds during peak traffic. Write-ahead logs (WAL) segments are archived to S3 buckets every fifteen minutes,7,Retry Limit,512,5,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,550,138,0.2509090909090909,3391488,0.08749309999984689,0.22587410000051023,110.68112722947663,1359.8515625,25," 5% of the time.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Consumer Retry Rule:",7,Retry Limit,512,5,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,550,138,0.2509090909090909,3391488,0.08251820000077714,0.23523629999908735,106.27611469869656,1359.8515625,25," 5 times before eviction.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times before eviction.",7,Retry Limit,512,5,True,3,44,EleutherAI/pythia-70m,18.0
+Recent_Window,0.125,550,69,0.12545454545454546,1695744,0.07996239999920363,0.2153913999973156,116.06777243804336,1359.7421875,25, most most most most most most most most most most most most most most most most most most most most most most most most most,7,Retry Limit,512,5,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,550,69,0.12545454545454546,1695744,0.08728209999753744,0.20138260000021546,124.14180768335126,1359.37109375,25," 5 seconds.
+Consumer Retry Rule: Failed message consumers must retry at most 5 seconds.
+Consumer Retry Rule:",7,Retry Limit,512,5,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,550,69,0.12545454545454546,1695744,0.08265949999986333,0.2395262999998522,104.37267222854203,1359.37109375,25," 5 times before eviction.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times before eviction.",7,Retry Limit,512,5,True,3,44,EleutherAI/pythia-70m,18.0
+Full_KV,1.0,544,544,1.0,13369344,0.08286099999895669,0.25591590000112774,97.68834214634508,1359.35546875,25," PostgreSQL.
+Database Engine Rule: The database engine must be PostgreSQL.
+Database Engine Rule: The database",8,Database Choice,512,PostgreSQL,True,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,544,272,0.5,6684672,0.09030770000026678,0.21541920000163373,116.0527938076569,1359.0078125,25, in the same state as the database engine. The database engine must be in the same state as the database engine. The database,8,Database Choice,512,PostgreSQL,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,544,272,0.5,6684672,0.07413950000045588,0.21722229999795672,115.08947285907183,1359.8671875,25," Post-mortem.
+2. Database Engine Rule: The database engine must be Post-mortem.
+3. Database Engine",8,Database Choice,512,PostgreSQL,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,544,272,0.5,6684672,0.08498039999903995,0.1992478000029223,125.47189981336473,1359.8671875,25," PostgreSQL.
+2. Database Engine Rule: The database engine must be PostgreSQL.
+3. Database Engine",8,Database Choice,512,PostgreSQL,True,1,42,EleutherAI/pythia-70m,13.0
+Recent_Window,0.25,544,136,0.25,3342336,0.07458250000127009,0.19215970000004745,130.1001198481983,1359.8671875,25, in the database engine. The database engine must be in the database engine. The database engine must be in the database engine.,8,Database Choice,512,PostgreSQL,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,544,136,0.25,3342336,0.07019050000235438,0.1919979999984207,130.2096896853386,1359.8515625,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",8,Database Choice,512,PostgreSQL,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,544,136,0.25,3342336,0.07053390000146464,0.1946200000020326,128.4554516480264,1359.8515625,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",8,Database Choice,512,PostgreSQL,True,1,42,EleutherAI/pythia-70m,13.0
+Recent_Window,0.125,544,68,0.125,1671168,0.06999279999945429,0.19149729999844567,130.55014352788743,1359.7421875,25," in the database engine.
+Database Engine Rule: The database engine must be in the database engine.
+Database Engine Rule:",8,Database Choice,512,PostgreSQL,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,544,68,0.125,1671168,0.06948849999753293,0.2184598999992886,114.43747799976751,1359.375,25," PostgreSQL.
+Database Engine Rule: The database engine must be PostgreSQL.
+Database Engine Rule: The database",8,Database Choice,512,PostgreSQL,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,544,68,0.125,1671168,0.10040289999960805,0.20025119999991148,124.84319694469272,1359.375,25," PostgreSQL.
+Database Engine Rule: The database engine must be PostgreSQL.
+Database Engine Rule: The database",8,Database Choice,512,PostgreSQL,True,1,42,EleutherAI/pythia-70m,13.0
+Full_KV,1.0,544,544,1.0,13369344,0.08408939999935683,0.2221322000004875,112.54559221916108,1359.5859375,25," PostgreSQL.
+Database Engine Rule: The database engine must be PostgreSQL.
+Database Engine Rule: The database",8,Database Choice,512,PostgreSQL,True,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,544,272,0.5,6684672,0.07728820000193082,0.1981521999987308,126.16564438931351,1359.2421875,25, in the same state as the database engine. The database engine must be in the same state as the database engine. The database,8,Database Choice,512,PostgreSQL,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,544,272,0.5,6684672,0.06885789999796543,0.19646930000089924,127.24634332124955,1360.1015625,25," Post-mortem.
+2. Database Engine Rule: The database engine must be Post-mortem.
+3. Database Engine",8,Database Choice,512,PostgreSQL,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,544,272,0.5,6684672,0.07186870000077761,0.21742559999984223,114.98186046177699,1360.1015625,25," PostgreSQL.
+2. Database Engine Rule: The database engine must be PostgreSQL.
+3. Database Engine",8,Database Choice,512,PostgreSQL,True,2,43,EleutherAI/pythia-70m,13.0
+Recent_Window,0.25,544,136,0.25,3342336,0.07321520000186865,0.20394590000069002,122.58152774787537,1360.1015625,25, in the database engine. The database engine must be in the database engine. The database engine must be in the database engine.,8,Database Choice,512,PostgreSQL,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,544,136,0.25,3342336,0.0770580999997037,0.20249669999975595,123.4588020448241,1360.0859375,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",8,Database Choice,512,PostgreSQL,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,544,136,0.25,3342336,0.07871589999922435,0.20691739999892889,120.82115858854506,1360.0859375,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",8,Database Choice,512,PostgreSQL,True,2,43,EleutherAI/pythia-70m,13.0
+Recent_Window,0.125,544,68,0.125,1671168,0.07426640000267071,0.20223970000006375,123.61568969886783,1359.9765625,25," in the database engine.
+Database Engine Rule: The database engine must be in the database engine.
+Database Engine Rule:",8,Database Choice,512,PostgreSQL,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,544,68,0.125,1671168,0.07373010000083013,0.2207129000016721,113.26931955409313,1359.609375,25," PostgreSQL.
+Database Engine Rule: The database engine must be PostgreSQL.
+Database Engine Rule: The database",8,Database Choice,512,PostgreSQL,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,544,68,0.125,1671168,0.07621719999951893,0.20674469999721623,120.92208409858448,1359.609375,25," PostgreSQL.
+Database Engine Rule: The database engine must be PostgreSQL.
+Database Engine Rule: The database",8,Database Choice,512,PostgreSQL,True,2,43,EleutherAI/pythia-70m,13.0
+Full_KV,1.0,544,544,1.0,13369344,0.07556509999994887,0.21993619999921066,113.6693277418166,1359.59765625,25," PostgreSQL.
+Database Engine Rule: The database engine must be PostgreSQL.
+Database Engine Rule: The database",8,Database Choice,512,PostgreSQL,True,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,544,272,0.5,6684672,0.07673160000194912,0.2049345000014,121.99019686694633,1359.25390625,25, in the same state as the database engine. The database engine must be in the same state as the database engine. The database,8,Database Choice,512,PostgreSQL,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,544,272,0.5,6684672,0.07138080000004265,0.196833299996797,127.01102913179231,1360.11328125,25," Post-mortem.
+2. Database Engine Rule: The database engine must be Post-mortem.
+3. Database Engine",8,Database Choice,512,PostgreSQL,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,544,272,0.5,6684672,0.07137990000046557,0.19571979999818723,127.73362736029544,1360.11328125,25," PostgreSQL.
+2. Database Engine Rule: The database engine must be PostgreSQL.
+3. Database Engine",8,Database Choice,512,PostgreSQL,True,3,44,EleutherAI/pythia-70m,13.0
+Recent_Window,0.25,544,136,0.25,3342336,0.07302250000066124,0.21931649999896763,113.99051143036516,1360.11328125,25, in the database engine. The database engine must be in the database engine. The database engine must be in the database engine.,8,Database Choice,512,PostgreSQL,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,544,136,0.25,3342336,0.08180490000086138,0.2051355000003241,121.87066597424874,1360.09765625,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",8,Database Choice,512,PostgreSQL,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,544,136,0.25,3342336,0.07741040000109933,0.19378839999990305,129.0066897709693,1360.09765625,25," PostgreSQL.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Database Engine Rule: The database engine",8,Database Choice,512,PostgreSQL,True,3,44,EleutherAI/pythia-70m,13.0
+Recent_Window,0.125,544,68,0.125,1671168,0.0699551000034262,0.1945594999997411,128.49539601013197,1359.98828125,25," in the database engine.
+Database Engine Rule: The database engine must be in the database engine.
+Database Engine Rule:",8,Database Choice,512,PostgreSQL,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,544,68,0.125,1671168,0.08863070000006701,0.20943710000210558,119.36758100522144,1359.62109375,25," PostgreSQL.
+Database Engine Rule: The database engine must be PostgreSQL.
+Database Engine Rule: The database",8,Database Choice,512,PostgreSQL,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,544,68,0.125,1671168,0.08519959999830462,0.19144039999810047,130.58894569927799,1359.62109375,25," PostgreSQL.
+Database Engine Rule: The database engine must be PostgreSQL.
+Database Engine Rule: The database",8,Database Choice,512,PostgreSQL,True,3,44,EleutherAI/pythia-70m,13.0
+Full_KV,1.0,550,550,1.0,13516800,0.06969869999738876,0.21907500000088476,114.11617026086516,1359.60546875,25," 8080.
+2. Security Rule: SSL termination is handled at the gateway layer.
+3. Telemetry Rule:",9,Port Configuration,512,8080,True,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,550,275,0.5,6758400,0.07185709999976098,0.20070599999962724,124.56030213370019,1359.26171875,25, port port port port port port port port port port port port port port port port port port port port port port port port port,9,Port Configuration,512,8080,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,550,275,0.5,6758400,0.07340520000070683,0.19922120000046561,125.48865281376466,1360.12109375,25," 80.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic must",9,Port Configuration,512,8080,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,550,275,0.5,6758400,0.07398180000018328,0.23459939999884227,106.56463742074094,1360.13671875,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",9,Port Configuration,512,8080,True,1,42,EleutherAI/pythia-70m,15.0
+Recent_Window,0.25,550,138,0.2509090909090909,3391488,0.0784708999999566,0.21678959999917424,115.31918505359678,1360.13671875,25, port port port port port port port port port port port port port port port port port port port port port port port port port,9,Port Configuration,512,8080,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,550,138,0.2509090909090909,3391488,0.07773190000079921,0.2233234999985143,111.94522743986332,1360.12109375,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",9,Port Configuration,512,8080,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,550,138,0.2509090909090909,3391488,0.0808699000008346,0.20406279999951948,122.51130534354556,1360.12109375,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",9,Port Configuration,512,8080,True,1,42,EleutherAI/pythia-70m,15.0
+Recent_Window,0.125,550,69,0.12545454545454546,1695744,0.07442500000252039,0.20238440000321134,123.527307438732,1360.01171875,25, port port port port port port port port port port port port port port port port port port port port port port port port port,9,Port Configuration,512,8080,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,550,69,0.12545454545454546,1695744,0.07631440000113798,0.21013619999939692,118.970458207923,1359.640625,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",9,Port Configuration,512,8080,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,550,69,0.12545454545454546,1695744,0.07494560000122874,0.19294580000132555,129.57006578960645,1359.64453125,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",9,Port Configuration,512,8080,True,1,42,EleutherAI/pythia-70m,15.0
+Full_KV,1.0,550,550,1.0,13516800,0.06954739999855519,0.21606419999807258,115.7063502432287,1359.65625,25," 8080.
+2. Security Rule: SSL termination is handled at the gateway layer.
+3. Telemetry Rule:",9,Port Configuration,512,8080,True,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,550,275,0.5,6758400,0.07255450000229757,0.19869670000116457,125.81990541289046,1359.2890625,25, port port port port port port port port port port port port port port port port port port port port port port port port port,9,Port Configuration,512,8080,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,550,275,0.5,6758400,0.07398979999925359,0.19782429999759188,126.37476791427709,1360.1484375,25," 80.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic must",9,Port Configuration,512,8080,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,550,275,0.5,6758400,0.07096879999880912,0.1981021999999939,126.19748796328749,1360.1484375,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",9,Port Configuration,512,8080,True,2,43,EleutherAI/pythia-70m,15.0
+Recent_Window,0.25,550,138,0.2509090909090909,3391488,0.0696922999995877,0.19728329999998095,126.72131903715324,1360.1484375,25, port port port port port port port port port port port port port port port port port port port port port port port port port,9,Port Configuration,512,8080,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,550,138,0.2509090909090909,3391488,0.0772475999983726,0.1931350000013481,129.443135629614,1360.1328125,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",9,Port Configuration,512,8080,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,550,138,0.2509090909090909,3391488,0.0730492000002414,0.19544040000255336,127.91623430812352,1360.1328125,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",9,Port Configuration,512,8080,True,2,43,EleutherAI/pythia-70m,15.0
+Recent_Window,0.125,550,69,0.12545454545454546,1695744,0.07050280000112252,0.19220490000225254,130.06952476085164,1360.0234375,25, port port port port port port port port port port port port port port port port port port port port port port port port port,9,Port Configuration,512,8080,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,550,69,0.12545454545454546,1695744,0.0736934000015026,0.18910269999832963,132.20329482456268,1359.65234375,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",9,Port Configuration,512,8080,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,550,69,0.12545454545454546,1695744,0.07171480000033625,0.20804449999923236,120.1665989732593,1359.65234375,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",9,Port Configuration,512,8080,True,2,43,EleutherAI/pythia-70m,15.0
+Full_KV,1.0,550,550,1.0,13516800,0.07211219999953755,0.21270600000207196,117.53312083230598,1359.640625,25," 8080.
+2. Security Rule: SSL termination is handled at the gateway layer.
+3. Telemetry Rule:",9,Port Configuration,512,8080,True,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,550,275,0.5,6758400,0.07384479999745963,0.2036737999987963,122.745291736825,1359.3203125,25, port port port port port port port port port port port port port port port port port port port port port port port port port,9,Port Configuration,512,8080,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,550,275,0.5,6758400,0.0715450999996392,0.1982828000000154,126.08254472903377,1360.19140625,25," 80.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic must",9,Port Configuration,512,8080,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,550,275,0.5,6758400,0.07362339999963297,0.19947580000007292,125.32848596165981,1360.19140625,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",9,Port Configuration,512,8080,True,3,44,EleutherAI/pythia-70m,15.0
+Recent_Window,0.25,550,138,0.2509090909090909,3391488,0.0776834999996936,0.2191683999990346,114.06753893403484,1360.19140625,25, port port port port port port port port port port port port port port port port port port port port port port port port port,9,Port Configuration,512,8080,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,550,138,0.2509090909090909,3391488,0.07699999999749707,0.1980848999992304,126.20850958400732,1360.17578125,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",9,Port Configuration,512,8080,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,550,138,0.2509090909090909,3391488,0.07386839999890071,0.20055189999766299,124.65601173706817,1360.17578125,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",9,Port Configuration,512,8080,True,3,44,EleutherAI/pythia-70m,15.0
+Recent_Window,0.125,550,69,0.12545454545454546,1695744,0.07502839999870048,0.19387379999898258,128.9498632622417,1360.06640625,25, port port port port port port port port port port port port port port port port port port port port port port port port port,9,Port Configuration,512,8080,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,550,69,0.12545454545454546,1695744,0.06973710000238498,0.19319799999721,129.4009254772877,1359.6953125,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",9,Port Configuration,512,8080,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,550,69,0.12545454545454546,1695744,0.07085770000048797,0.20622129999901517,121.22899041039597,1359.69921875,25," 8080.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Network Port Rule: Inbound internal traffic",9,Port Configuration,512,8080,True,3,44,EleutherAI/pythia-70m,15.0
+Full_KV,1.0,549,549,1.0,13492224,0.07671190000110073,0.22295049999956973,112.13251371962946,1359.7109375,25," AES-256-GCM encryption.
+
+=== CONTEXT & LOGS ===
+Distributed tracing via OpenTelemetry",10,Encryption Standard,512,AES-256-GCM,True,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,549,274,0.4990892531876138,6733824,0.07614029999967897,0.1997296000008646,125.16922879679215,1359.484375,25, use of use of use of use of use of use of use of use of use of use of use of use of use,10,Encryption Standard,512,AES-256-GCM,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,549,274,0.4990892531876138,6733824,0.07010889999946812,0.20362720000048284,122.77338194475355,1360.43359375,25," AES-256.
+Encryption Standard Rule: Resting persistent volumes must use AES-256.
+Encryption Standard Rule",10,Encryption Standard,512,AES-256-GCM,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,549,274,0.4990892531876138,6733824,0.07401799999934155,0.21356250000098953,117.0617500726212,1360.43359375,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",10,Encryption Standard,512,AES-256-GCM,True,1,42,EleutherAI/pythia-70m,19.0
+Recent_Window,0.25,549,137,0.2495446265938069,3366912,0.07622459999765852,0.2008748000007472,124.45563106923818,1360.41796875,25, of the same data data data data data data data data data data data data data data data data data data data data data data,10,Encryption Standard,512,AES-256-GCM,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,549,137,0.2495446265938069,3366912,0.0735350999966613,0.1951413999995566,128.11223041372463,1360.40234375,25," AES-GCM.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Encryption Standard Rule: Rest",10,Encryption Standard,512,AES-256-GCM,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,549,137,0.2495446265938069,3366912,0.0716534999992291,0.19856179999987944,125.90538562812776,1360.40234375,25," AES-256-GCM encryption.
+The Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes",10,Encryption Standard,512,AES-256-GCM,True,1,42,EleutherAI/pythia-70m,19.0
+Recent_Window,0.125,549,69,0.12568306010928962,1695744,0.07143629999700352,0.19347800000105053,129.21365736602743,1360.40234375,25, use of use of use of use of use of use of use of use of use of use of use of use of use,10,Encryption Standard,512,AES-256-GCM,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,549,69,0.12568306010928962,1695744,0.0726169999979902,0.1978616000014881,126.35094429546702,1359.921875,25," AES-256 or AES-256.
+The following are the key values for the encryption keys:
+
+-  *",10,Encryption Standard,512,AES-256-GCM,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,549,69,0.12568306010928962,1695744,0.07399459999942337,0.2191318000004685,114.08659080948794,1359.921875,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",10,Encryption Standard,512,AES-256-GCM,True,1,42,EleutherAI/pythia-70m,19.0
+Full_KV,1.0,549,549,1.0,13492224,0.08992349999971339,0.24838859999726992,100.64874152950168,1360.1796875,25," AES-256-GCM encryption.
+
+=== CONTEXT & LOGS ===
+Distributed tracing via OpenTelemetry",10,Encryption Standard,512,AES-256-GCM,True,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,549,274,0.4990892531876138,6733824,0.0788232999984757,0.21671000000060303,115.36154307567917,1359.83203125,25, use of use of use of use of use of use of use of use of use of use of use of use of use,10,Encryption Standard,512,AES-256-GCM,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,549,274,0.4990892531876138,6733824,0.0766046999997343,0.2131390000031388,117.29434781823991,1360.69140625,25," AES-256.
+Encryption Standard Rule: Resting persistent volumes must use AES-256.
+Encryption Standard Rule",10,Encryption Standard,512,AES-256-GCM,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,549,274,0.4990892531876138,6733824,0.07587899999998626,0.20832289999816567,120.00600990203252,1360.69140625,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",10,Encryption Standard,512,AES-256-GCM,True,2,43,EleutherAI/pythia-70m,19.0
+Recent_Window,0.25,549,137,0.2495446265938069,3366912,0.07518350000100327,0.22837929999877815,109.4670138674291,1360.69140625,25, of the same data data data data data data data data data data data data data data data data data data data data data data,10,Encryption Standard,512,AES-256-GCM,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,549,137,0.2495446265938069,3366912,0.07735260000117705,0.22887140000239015,109.23164711597396,1360.67578125,25," AES-GCM.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Encryption Standard Rule: Rest",10,Encryption Standard,512,AES-256-GCM,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,549,137,0.2495446265938069,3366912,0.0792535999971733,0.20176429999992251,123.90695479829485,1360.67578125,25," AES-256-GCM encryption.
+The Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes",10,Encryption Standard,512,AES-256-GCM,True,2,43,EleutherAI/pythia-70m,19.0
+Recent_Window,0.125,549,69,0.12568306010928962,1695744,0.07121669999833102,0.20383209999999963,122.64996533912002,1360.67578125,25, use of use of use of use of use of use of use of use of use of use of use of use of use,10,Encryption Standard,512,AES-256-GCM,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,549,69,0.12568306010928962,1695744,0.07633749999877182,0.19722919999912847,126.75607871507096,1360.1953125,25," AES-256 or AES-256.
+The following are the key values for the encryption keys:
+
+-  *",10,Encryption Standard,512,AES-256-GCM,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,549,69,0.12568306010928962,1695744,0.0739757000010286,0.2000331000017468,124.97931592212332,1360.203125,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",10,Encryption Standard,512,AES-256-GCM,True,2,43,EleutherAI/pythia-70m,19.0
+Full_KV,1.0,549,549,1.0,13492224,0.07690830000137794,0.23110090000045602,108.17785651181224,1360.22265625,25," AES-256-GCM encryption.
+
+=== CONTEXT & LOGS ===
+Distributed tracing via OpenTelemetry",10,Encryption Standard,512,AES-256-GCM,True,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,549,274,0.4990892531876138,6733824,0.08269889999792213,0.22682150000036927,110.21882846184907,1359.8515625,25, use of use of use of use of use of use of use of use of use of use of use of use of use,10,Encryption Standard,512,AES-256-GCM,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,549,274,0.4990892531876138,6733824,0.07825149999916903,0.2050718999998935,121.90846234912235,1360.7109375,25," AES-256.
+Encryption Standard Rule: Resting persistent volumes must use AES-256.
+Encryption Standard Rule",10,Encryption Standard,512,AES-256-GCM,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,549,274,0.4990892531876138,6733824,0.07460689999788883,0.2209900000016205,113.12729082680971,1360.7109375,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",10,Encryption Standard,512,AES-256-GCM,True,3,44,EleutherAI/pythia-70m,19.0
+Recent_Window,0.25,549,137,0.2495446265938069,3366912,0.07623809999859077,0.20270499999969616,123.33193557158172,1360.7109375,25, of the same data data data data data data data data data data data data data data data data data data data data data data,10,Encryption Standard,512,AES-256-GCM,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,549,137,0.2495446265938069,3366912,0.07506320000175037,0.19653219999963767,127.20561821445081,1360.6953125,25," AES-GCM.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Encryption Standard Rule: Rest",10,Encryption Standard,512,AES-256-GCM,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,549,137,0.2495446265938069,3366912,0.07622810000248137,0.20098660000076052,124.38640187905762,1360.6953125,25," AES-256-GCM encryption.
+The Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes Kubernetes",10,Encryption Standard,512,AES-256-GCM,True,3,44,EleutherAI/pythia-70m,19.0
+Recent_Window,0.125,549,69,0.12568306010928962,1695744,0.07491250000020955,0.19607840000026044,127.50002039983391,1360.6953125,25, use of use of use of use of use of use of use of use of use of use of use of use of use,10,Encryption Standard,512,AES-256-GCM,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,549,69,0.12568306010928962,1695744,0.07588979999854928,0.20474690000264673,122.1019707730707,1360.21484375,25," AES-256 or AES-256.
+The following are the key values for the encryption keys:
+
+-  *",10,Encryption Standard,512,AES-256-GCM,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,549,69,0.12568306010928962,1695744,0.07541029999993043,0.20089560000269557,124.44274538449103,1360.22265625,25," AES-256-GCM encryption.
+Encryption Standard Rule: Resting persistent volumes must use AES-256-G",10,Encryption Standard,512,AES-256-GCM,True,3,44,EleutherAI/pythia-70m,19.0
+Full_KV,1.0,568,568,1.0,13959168,0.08448290000160341,0.24136279999947874,103.57851334196484,1360.22265625,25," DEBUG.
+Logging Standard Rule: In production environments, set the log level strictly to DEBUG.
+Logging Standard Rule",11,Log Level,512,WARNING,False,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,568,284,0.5,6979584,0.10591550000026473,0.23898950000148034,104.60710616928839,1359.85546875,25," max-age=31536000. Content security policies prevent arbitrary script injection via strict nonce evaluation. 
+
+=== RE",11,Log Level,512,WARNING,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,568,284,0.5,6979584,0.07861860000048182,0.2013243000001239,124.17775698206631,1360.71484375,25," DEBUG.
+Logging Standard Rule: In production environments, set the log level strictly to DEBUG.
+Logging Standard Rule",11,Log Level,512,WARNING,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,568,284,0.5,6979584,0.07953049999923678,0.24233690000255592,103.16216803852953,1360.73046875,25," DEBUG.
+Logging Standard Rule: In production environments, set the log level strictly to DEBUG.
+Logging Standard Rule",11,Log Level,512,WARNING,False,1,42,EleutherAI/pythia-70m,18.0
+Recent_Window,0.25,568,142,0.25,3489792,0.09920250000141095,0.219504999997298,113.89262203734647,1360.73046875,25," max-age=31536000. Content security policies prevent arbitrary script injection via strict nonce evaluation. 
+
+=== RE",11,Log Level,512,WARNING,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,568,142,0.25,3489792,0.07897000000230037,0.20841479999944568,119.95309354262027,1360.6953125,25," WARNED SPECIFICATION.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Logging Standard Rule",11,Log Level,512,WARNING,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,568,142,0.25,3489792,0.09003930000108085,0.24205520000032266,103.2822265333142,1360.6953125,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Logging Standard Rule: In production environments",11,Log Level,512,WARNING,True,1,42,EleutherAI/pythia-70m,18.0
+Recent_Window,0.125,568,71,0.125,1744896,0.08478119999927003,0.20308779999686521,123.09946732588512,1360.6953125,25," max-age=31536000. Content security policies prevent arbitrary script injection via strict nonce evaluation. 
+
+=== RE",11,Log Level,512,WARNING,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,568,71,0.125,1744896,0.08061100000122678,0.2021734000009019,123.65622777224142,1360.2265625,25," the log level strictly.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Logging Standard Rule: In",11,Log Level,512,WARNING,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,568,71,0.125,1744896,0.08128740000029211,0.24275719999786816,102.98355723422227,1360.2265625,25," WARNING.
+=== REQUIRED SPECIFICATION RECALL ===
+Logging Standard Rule: In production environments,",11,Log Level,512,WARNING,True,1,42,EleutherAI/pythia-70m,18.0
+Full_KV,1.0,568,568,1.0,13959168,0.09001260000150069,0.2779255999994348,89.95213107411064,1360.484375,25," DEBUG.
+Logging Standard Rule: In production environments, set the log level strictly to DEBUG.
+Logging Standard Rule",11,Log Level,512,WARNING,False,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,568,284,0.5,6979584,0.08774319999793079,0.2430023999986588,102.87964234154882,1360.1171875,25," max-age=31536000. Content security policies prevent arbitrary script injection via strict nonce evaluation. 
+
+=== RE",11,Log Level,512,WARNING,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,568,284,0.5,6979584,0.07975900000019465,0.2302622999995947,108.57183307924922,1360.9765625,25," DEBUG.
+Logging Standard Rule: In production environments, set the log level strictly to DEBUG.
+Logging Standard Rule",11,Log Level,512,WARNING,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,568,284,0.5,6979584,0.09185100000104285,0.2539695000014035,98.43701704284115,1360.9921875,25," DEBUG.
+Logging Standard Rule: In production environments, set the log level strictly to DEBUG.
+Logging Standard Rule",11,Log Level,512,WARNING,False,2,43,EleutherAI/pythia-70m,18.0
+Recent_Window,0.25,568,142,0.25,3489792,0.07788500000242493,0.22864639999897918,109.33913676362985,1360.9921875,25," max-age=31536000. Content security policies prevent arbitrary script injection via strict nonce evaluation. 
+
+=== RE",11,Log Level,512,WARNING,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,568,142,0.25,3489792,0.0875594999997702,0.23755769999843324,105.23759069971162,1360.95703125,25," WARNED SPECIFICATION.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Logging Standard Rule",11,Log Level,512,WARNING,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,568,142,0.25,3489792,0.08967190000112168,0.24387570000180858,102.51123830629538,1360.95703125,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Logging Standard Rule: In production environments",11,Log Level,512,WARNING,True,2,43,EleutherAI/pythia-70m,18.0
+Recent_Window,0.125,568,71,0.125,1744896,0.08471759999883943,0.21975030000248807,113.76548746334791,1360.95703125,25," max-age=31536000. Content security policies prevent arbitrary script injection via strict nonce evaluation. 
+
+=== RE",11,Log Level,512,WARNING,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,568,71,0.125,1744896,0.0774440000022878,0.21925840000039898,114.02071710800821,1360.48828125,25," the log level strictly.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Logging Standard Rule: In",11,Log Level,512,WARNING,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,568,71,0.125,1744896,0.0853291999992507,0.2366449000001012,105.64351904473457,1360.48828125,25," WARNING.
+=== REQUIRED SPECIFICATION RECALL ===
+Logging Standard Rule: In production environments,",11,Log Level,512,WARNING,True,2,43,EleutherAI/pythia-70m,18.0
+Full_KV,1.0,568,568,1.0,13959168,0.08902479999960633,0.24854969999796594,100.58350503019956,1360.4921875,25," DEBUG.
+Logging Standard Rule: In production environments, set the log level strictly to DEBUG.
+Logging Standard Rule",11,Log Level,512,WARNING,False,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,568,284,0.5,6979584,0.07960359999924549,0.22970749999876716,108.83406070822318,1360.125,25," max-age=31536000. Content security policies prevent arbitrary script injection via strict nonce evaluation. 
+
+=== RE",11,Log Level,512,WARNING,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,568,284,0.5,6979584,0.08076100000107544,0.2511238000006415,99.55249163932744,1360.984375,25," DEBUG.
+Logging Standard Rule: In production environments, set the log level strictly to DEBUG.
+Logging Standard Rule",11,Log Level,512,WARNING,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,568,284,0.5,6979584,0.08141120000072988,0.23100530000010622,108.22262519512974,1361.0,25," DEBUG.
+Logging Standard Rule: In production environments, set the log level strictly to DEBUG.
+Logging Standard Rule",11,Log Level,512,WARNING,False,3,44,EleutherAI/pythia-70m,18.0
+Recent_Window,0.25,568,142,0.25,3489792,0.07931029999963357,0.2256100000013248,110.81069101481847,1361.0,25," max-age=31536000. Content security policies prevent arbitrary script injection via strict nonce evaluation. 
+
+=== RE",11,Log Level,512,WARNING,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,568,142,0.25,3489792,0.07946490000176709,0.22980850000021746,108.78622853365451,1360.96484375,25," WARNED SPECIFICATION.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Logging Standard Rule",11,Log Level,512,WARNING,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,568,142,0.25,3489792,0.08019890000286978,0.21797030000016093,114.69452489619707,1360.96484375,25," WARNING.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Logging Standard Rule: In production environments",11,Log Level,512,WARNING,True,3,44,EleutherAI/pythia-70m,18.0
+Recent_Window,0.125,568,71,0.125,1744896,0.07592440000007628,0.21958040000026813,113.85351333711694,1360.96484375,25," max-age=31536000. Content security policies prevent arbitrary script injection via strict nonce evaluation. 
+
+=== RE",11,Log Level,512,WARNING,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,568,71,0.125,1744896,0.07940409999719122,0.26210900000296533,95.38016626562677,1360.49609375,25," the log level strictly.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Logging Standard Rule: In",11,Log Level,512,WARNING,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,568,71,0.125,1744896,0.09505110000100103,0.2607906000012008,95.86235086649936,1360.49609375,25," WARNING.
+=== REQUIRED SPECIFICATION RECALL ===
+Logging Standard Rule: In production environments,",11,Log Level,512,WARNING,True,3,44,EleutherAI/pythia-70m,18.0
+Full_KV,1.0,547,547,1.0,13443072,0.08808339999814052,0.27727490000324906,90.16322790020682,1360.5,25," Memcached.
+2. Application Cache Rule: In-memory application caching must strictly use Memcached.
+3. Con",12,Cache Engine,512,Memcached,True,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,547,274,0.5009140767824497,6733824,0.08175880000271718,0.28419059999941965,87.9691305766308,1360.12890625,25," of the memory pool.
+Application Cache Rule: In-memory application caching must strictly use the memory pool.
+Application Cache",12,Cache Engine,512,Memcached,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,547,274,0.5009140767824497,6733824,0.07886000000144122,0.24698730000091018,101.21977931621534,1360.98828125,25," Memcached.
+2. Application Cache Rule: In-memory application caching must strictly use Memcached.
+3. Application",12,Cache Engine,512,Memcached,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,547,274,0.5009140767824497,6733824,0.08193200000096112,0.2412722000008216,103.61740805577628,1360.98828125,25," Memcached.
+2. Application Cache Rule: In-memory application caching must strictly use Memcached.
+3. Application",12,Cache Engine,512,Memcached,True,1,42,EleutherAI/pythia-70m,15.0
+Recent_Window,0.25,547,137,0.25045703839122485,3366912,0.07337510000070324,0.20179189999907976,123.89000747856583,1360.98828125,25, use of use of use of use of use of use of use of use of use of use of use of use of use,12,Cache Engine,512,Memcached,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,547,137,0.25045703839122485,3366912,0.07857949999743141,0.2053297999991628,121.7553418943667,1360.97265625,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",12,Cache Engine,512,Memcached,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,547,137,0.25045703839122485,3366912,0.08061039999665809,0.19712100000106147,126.82565530747803,1360.97265625,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",12,Cache Engine,512,Memcached,True,1,42,EleutherAI/pythia-70m,15.0
+Recent_Window,0.125,547,68,0.12431444241316271,1671168,0.07309739999982412,0.2045261000021128,122.23378825363484,1360.97265625,25, use of the the the the the the the the the the the the the the the the the the the the the the the,12,Cache Engine,512,Memcached,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,547,68,0.12431444241316271,1671168,0.10436180000033346,0.2484388000011677,100.62840425844311,1360.49609375,25, use use use use use use use use use use use use use use use use use use the use use use use use use,12,Cache Engine,512,Memcached,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,547,68,0.12431444241316271,1671168,0.08867619999728049,0.20370810000167694,122.72462410573854,1360.49609375,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",12,Cache Engine,512,Memcached,True,1,42,EleutherAI/pythia-70m,15.0
+Full_KV,1.0,547,547,1.0,13443072,0.07084089999989374,0.21543920000112848,116.04202020741373,1360.79296875,25," Memcached.
+2. Application Cache Rule: In-memory application caching must strictly use Memcached.
+3. Con",12,Cache Engine,512,Memcached,True,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,547,274,0.5009140767824497,6733824,0.07580650000090827,0.22800560000177938,109.64642973595778,1360.44921875,25," of the memory pool.
+Application Cache Rule: In-memory application caching must strictly use the memory pool.
+Application Cache",12,Cache Engine,512,Memcached,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,547,274,0.5009140767824497,6733824,0.06985119999808376,0.21032259999992675,118.86501973638927,1361.30859375,25," Memcached.
+2. Application Cache Rule: In-memory application caching must strictly use Memcached.
+3. Application",12,Cache Engine,512,Memcached,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,547,274,0.5009140767824497,6733824,0.07025699999940116,0.20706880000216188,120.73281923563081,1361.30859375,25," Memcached.
+2. Application Cache Rule: In-memory application caching must strictly use Memcached.
+3. Application",12,Cache Engine,512,Memcached,True,2,43,EleutherAI/pythia-70m,15.0
+Recent_Window,0.25,547,137,0.25045703839122485,3366912,0.06959479999932228,0.22715420000167796,110.05739713294021,1361.30859375,25, use of use of use of use of use of use of use of use of use of use of use of use of use,12,Cache Engine,512,Memcached,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,547,137,0.25045703839122485,3366912,0.08080079999854206,0.22444479999830946,111.385962161691,1361.28515625,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",12,Cache Engine,512,Memcached,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,547,137,0.25045703839122485,3366912,0.0774399000001722,0.21263019999969401,117.57501991737757,1361.28515625,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",12,Cache Engine,512,Memcached,True,2,43,EleutherAI/pythia-70m,15.0
+Recent_Window,0.125,547,68,0.12431444241316271,1671168,0.06901080000170623,0.2066518999999971,120.97638589338085,1361.28515625,25, use of the the the the the the the the the the the the the the the the the the the the the the the,12,Cache Engine,512,Memcached,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,547,68,0.12431444241316271,1671168,0.07915779999893857,0.20543089999773656,121.69542167354302,1360.80859375,25, use use use use use use use use use use use use use use use use use use the use use use use use use,12,Cache Engine,512,Memcached,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,547,68,0.12431444241316271,1671168,0.07058220000180881,0.20039729999916744,124.75217979535584,1360.80859375,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",12,Cache Engine,512,Memcached,True,2,43,EleutherAI/pythia-70m,15.0
+Full_KV,1.0,547,547,1.0,13443072,0.07058200000028592,0.2222527000012633,112.48457274020923,1360.80859375,25," Memcached.
+2. Application Cache Rule: In-memory application caching must strictly use Memcached.
+3. Con",12,Cache Engine,512,Memcached,True,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,547,274,0.5009140767824497,6733824,0.06885569999940344,0.23290320000160136,107.34073211457854,1360.46484375,25," of the memory pool.
+Application Cache Rule: In-memory application caching must strictly use the memory pool.
+Application Cache",12,Cache Engine,512,Memcached,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,547,274,0.5009140767824497,6733824,0.07689289999689208,0.22872869999991963,109.29979490990324,1361.32421875,25," Memcached.
+2. Application Cache Rule: In-memory application caching must strictly use Memcached.
+3. Application",12,Cache Engine,512,Memcached,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,547,274,0.5009140767824497,6733824,0.07636030000139726,0.21324649999951362,117.23521839775574,1361.32421875,25," Memcached.
+2. Application Cache Rule: In-memory application caching must strictly use Memcached.
+3. Application",12,Cache Engine,512,Memcached,True,3,44,EleutherAI/pythia-70m,15.0
+Recent_Window,0.25,547,137,0.25045703839122485,3366912,0.07011730000158423,0.23438080000050832,106.66402708731168,1361.32421875,25, use of use of use of use of use of use of use of use of use of use of use of use of use,12,Cache Engine,512,Memcached,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,547,137,0.25045703839122485,3366912,0.07223530000192113,0.20553189999918686,121.6356195807021,1361.30859375,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",12,Cache Engine,512,Memcached,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,547,137,0.25045703839122485,3366912,0.07013799999913317,0.20619889999943553,121.24215987606354,1361.30859375,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",12,Cache Engine,512,Memcached,True,3,44,EleutherAI/pythia-70m,15.0
+Recent_Window,0.125,547,68,0.12431444241316271,1671168,0.07135449999987031,0.2021502000025066,123.67041932033709,1361.30859375,25, use of the the the the the the the the the the the the the the the the the the the the the the the,12,Cache Engine,512,Memcached,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,547,68,0.12431444241316271,1671168,0.0697522000009485,0.22342899999785004,111.89236849397601,1360.83203125,25, use use use use use use use use use use use use use use use use use use the use use use use use use,12,Cache Engine,512,Memcached,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,547,68,0.12431444241316271,1671168,0.07384559999991325,0.21471139999994193,116.43536393506243,1360.83203125,25," Memcached.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Application Cache Rule: In-memory application",12,Cache Engine,512,Memcached,True,3,44,EleutherAI/pythia-70m,15.0
+Full_KV,1.0,572,572,1.0,14057472,0.07511560000057216,0.22666779999781284,110.29356618029217,1360.80859375,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",13,Authentication Header,512,X-Secret-Key,True,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,572,286,0.5,7028736,0.07315839999864693,0.21499459999904502,116.2819903388785,1360.46875,25, service-to-service endpoint. Service-to-service requests must pass authorization via the service-to-service endpoint.,13,Authentication Header,512,X-Secret-Key,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,572,286,0.5,7028736,0.0742802999993728,0.20977549999952316,119.17502282228776,1361.328125,25, X-X-X-X-X-X-X-X-X-X-X-X-X,13,Authentication Header,512,X-Secret-Key,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,572,286,0.5,7028736,0.07377949999863631,0.2265518999993219,110.34999044402112,1361.34375,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",13,Authentication Header,512,X-Secret-Key,True,1,42,EleutherAI/pythia-70m,22.0
+Recent_Window,0.25,572,143,0.25,3514368,0.0768478000027244,0.20898760000272887,119.62432220702837,1361.34375,25," service-to-service request.
+Authentication Rule: Service-to-service requests must pass authorization via the service-to",13,Authentication Header,512,X-Secret-Key,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,572,143,0.25,3514368,0.07948490000126185,0.21023280000008526,118.91579239771274,1361.32421875,25, X-X-X-X-X-X-X-X-X-X-X-X-X,13,Authentication Header,512,X-Secret-Key,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,572,143,0.25,3514368,0.07567809999818564,0.2068899000005331,120.8372182495887,1361.32421875,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",13,Authentication Header,512,X-Secret-Key,True,1,42,EleutherAI/pythia-70m,22.0
+Recent_Window,0.125,572,72,0.1258741258741259,1769472,0.07558920000155922,0.20720599999913247,120.6528768477007,1361.34765625,25, the the the the the the the the the the the the the the the the the the the the the the the the the,13,Authentication Header,512,X-Secret-Key,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,572,72,0.1258741258741259,1769472,0.07599299999856157,0.20747750000009546,120.49499343296742,1361.34765625,25, X-X-X-X-X-X-X-X-X-X-X-X-X,13,Authentication Header,512,X-Secret-Key,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,572,72,0.1258741258741259,1769472,0.07373989999905461,0.20228340000176104,123.58898456216554,1360.86328125,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",13,Authentication Header,512,X-Secret-Key,True,1,42,EleutherAI/pythia-70m,22.0
+Full_KV,1.0,572,572,1.0,14057472,0.07379760000185343,0.22320179999951506,112.0062651826926,1361.12109375,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",13,Authentication Header,512,X-Secret-Key,True,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,572,286,0.5,7028736,0.076821699996799,0.22388949999731267,111.66222623347711,1360.7421875,25, service-to-service endpoint. Service-to-service requests must pass authorization via the service-to-service endpoint.,13,Authentication Header,512,X-Secret-Key,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,572,286,0.5,7028736,0.08256710000205203,0.2100767999982054,119.00409755010342,1361.6015625,25, X-X-X-X-X-X-X-X-X-X-X-X-X,13,Authentication Header,512,X-Secret-Key,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,572,286,0.5,7028736,0.07189529999959632,0.22835579999809852,109.47827907243071,1361.6171875,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",13,Authentication Header,512,X-Secret-Key,True,2,43,EleutherAI/pythia-70m,22.0
+Recent_Window,0.25,572,143,0.25,3514368,0.07894189999933587,0.21627799999987474,115.59196959475527,1361.6171875,25," service-to-service request.
+Authentication Rule: Service-to-service requests must pass authorization via the service-to",13,Authentication Header,512,X-Secret-Key,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,572,143,0.25,3514368,0.07881950000228244,0.2385457000018505,104.80172143034255,1361.59765625,25, X-X-X-X-X-X-X-X-X-X-X-X-X,13,Authentication Header,512,X-Secret-Key,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,572,143,0.25,3514368,0.08454920000076527,0.2228916999993089,112.16209486525301,1361.59765625,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",13,Authentication Header,512,X-Secret-Key,True,2,43,EleutherAI/pythia-70m,22.0
+Recent_Window,0.125,572,72,0.1258741258741259,1769472,0.07680729999992764,0.21191540000290843,117.97160564856017,1361.62109375,25, the the the the the the the the the the the the the the the the the the the the the the the the the,13,Authentication Header,512,X-Secret-Key,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,572,72,0.1258741258741259,1769472,0.07544369999959599,0.2050911999976961,121.8969902184045,1361.62109375,25, X-X-X-X-X-X-X-X-X-X-X-X-X,13,Authentication Header,512,X-Secret-Key,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,572,72,0.1258741258741259,1769472,0.07432419999895501,0.20575470000039786,121.50390732241674,1361.70703125,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",13,Authentication Header,512,X-Secret-Key,True,2,43,EleutherAI/pythia-70m,22.0
+Full_KV,1.0,572,572,1.0,14057472,0.07609560000128113,0.24143290000210982,103.54843933772709,1361.71484375,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",13,Authentication Header,512,X-Secret-Key,True,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,572,286,0.5,7028736,0.07614589999866439,0.21302080000168644,117.3594315663169,1361.32421875,25, service-to-service endpoint. Service-to-service requests must pass authorization via the service-to-service endpoint.,13,Authentication Header,512,X-Secret-Key,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,572,286,0.5,7028736,0.08481590000155848,0.22228290000202833,112.46929025926815,1362.16796875,25, X-X-X-X-X-X-X-X-X-X-X-X-X,13,Authentication Header,512,X-Secret-Key,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,572,286,0.5,7028736,0.07780690000072354,0.20913780000046245,119.53840960335587,1362.18359375,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",13,Authentication Header,512,X-Secret-Key,True,3,44,EleutherAI/pythia-70m,22.0
+Recent_Window,0.25,572,143,0.25,3514368,0.07407740000053309,0.20873199999914505,119.77080658501043,1362.18359375,25," service-to-service request.
+Authentication Rule: Service-to-service requests must pass authorization via the service-to",13,Authentication Header,512,X-Secret-Key,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,572,143,0.25,3514368,0.07428820000131964,0.21144689999709954,118.23299372250399,1362.1640625,25, X-X-X-X-X-X-X-X-X-X-X-X-X,13,Authentication Header,512,X-Secret-Key,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,572,143,0.25,3514368,0.07378439999956754,0.20535689999815077,121.73927440580339,1362.1640625,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",13,Authentication Header,512,X-Secret-Key,True,3,44,EleutherAI/pythia-70m,22.0
+Recent_Window,0.125,572,72,0.1258741258741259,1769472,0.0726775999974052,0.20232729999770527,123.56216882389842,1362.1875,25, the the the the the the the the the the the the the the the the the the the the the the the the the,13,Authentication Header,512,X-Secret-Key,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,572,72,0.1258741258741259,1769472,0.07272250000096392,0.2042842999981076,122.3784696143149,1362.1875,25, X-X-X-X-X-X-X-X-X-X-X-X-X,13,Authentication Header,512,X-Secret-Key,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,572,72,0.1258741258741259,1769472,0.07795709999845712,0.21910550000029616,114.10028502235775,1361.703125,25," X-Secret-Key header.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Authentication Rule: Service",13,Authentication Header,512,X-Secret-Key,True,3,44,EleutherAI/pythia-70m,22.0
+Full_KV,1.0,563,563,1.0,13836288,0.08140850000199862,0.22646530000201892,110.39218811790207,1361.70703125,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",14,Deployment Region,512,eu-central-1,True,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,563,282,0.5008880994671403,6930432,0.07402229999934207,0.21452169999975013,116.53832689200729,1361.3125,25, cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud,14,Deployment Region,512,eu-central-1,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,563,282,0.5008880994671403,6930432,0.07416029999876628,0.21797910000168486,114.68989458075,1362.171875,25, eucentral1.1.1.1.1.1.1.1.1.1.1.1,14,Deployment Region,512,eu-central-1,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,563,282,0.5008880994671403,6930432,0.07417749999876833,0.21283150000090245,117.46381527120748,1362.1875,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",14,Deployment Region,512,eu-central-1,True,1,42,EleutherAI/pythia-70m,19.0
+Recent_Window,0.25,563,141,0.25044404973357015,3465216,0.07553800000096089,0.20550920000096085,121.64905512689025,1362.1875,25, production traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic,14,Deployment Region,512,eu-central-1,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,563,141,0.25044404973357015,3465216,0.07282390000182204,0.21819870000035735,114.57446813367383,1362.15234375,25," eu-central cluster of the cluster.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region",14,Deployment Region,512,eu-central-1,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,563,141,0.25044404973357015,3465216,0.0755048999999417,0.21260249999977532,117.5903387778903,1362.15234375,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",14,Deployment Region,512,eu-central-1,True,1,42,EleutherAI/pythia-70m,19.0
+Recent_Window,0.125,563,70,0.12433392539964476,1720320,0.08145209999929648,0.2154482999976608,116.03711888314474,1362.171875,25," production traffic to newly published images for twenty minutes.
+
+=== REQUIRED SPECIFICATION RECALL ===
+De",14,Deployment Region,512,eu-central-1,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,563,70,0.12433392539964476,1720320,0.08073439999861876,0.21272220000173547,117.52417001984767,1362.171875,25, eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu,14,Deployment Region,512,eu-central-1,False,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,563,70,0.12433392539964476,1720320,0.09399689999918337,0.2357618000023649,106.03923112119617,1361.67578125,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",14,Deployment Region,512,eu-central-1,True,1,42,EleutherAI/pythia-70m,19.0
+Full_KV,1.0,563,563,1.0,13836288,0.08129720000215457,0.23568840000007185,106.07225472272873,1361.8203125,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",14,Deployment Region,512,eu-central-1,True,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,563,282,0.5008880994671403,6930432,0.07592000000295229,0.2113616999995429,118.28065349613513,1361.45703125,25, cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud,14,Deployment Region,512,eu-central-1,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,563,282,0.5008880994671403,6930432,0.07489730000088457,0.21439729999838164,116.60594606456662,1362.31640625,25, eucentral1.1.1.1.1.1.1.1.1.1.1.1,14,Deployment Region,512,eu-central-1,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,563,282,0.5008880994671403,6930432,0.07298070000251755,0.20926600000166218,119.46517828888318,1362.33203125,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",14,Deployment Region,512,eu-central-1,True,2,43,EleutherAI/pythia-70m,19.0
+Recent_Window,0.25,563,141,0.25044404973357015,3465216,0.0721531999988656,0.20423139999911655,122.4101680745867,1362.33203125,25, production traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic,14,Deployment Region,512,eu-central-1,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,563,141,0.25044404973357015,3465216,0.07402580000052694,0.21746369999891613,114.96171545009399,1362.296875,25," eu-central cluster of the cluster.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region",14,Deployment Region,512,eu-central-1,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,563,141,0.25044404973357015,3465216,0.07439050000175484,0.20820119999916642,120.07615710236105,1362.296875,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",14,Deployment Region,512,eu-central-1,True,2,43,EleutherAI/pythia-70m,19.0
+Recent_Window,0.125,563,70,0.12433392539964476,1720320,0.07289440000022296,0.20035700000153156,124.77727256751147,1362.31640625,25," production traffic to newly published images for twenty minutes.
+
+=== REQUIRED SPECIFICATION RECALL ===
+De",14,Deployment Region,512,eu-central-1,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,563,70,0.12433392539964476,1720320,0.07512169999972684,0.20320150000043213,123.0305878644933,1362.31640625,25, eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu,14,Deployment Region,512,eu-central-1,False,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,563,70,0.12433392539964476,1720320,0.07891960000051768,0.2152133000017784,116.16382444669271,1361.8203125,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",14,Deployment Region,512,eu-central-1,True,2,43,EleutherAI/pythia-70m,19.0
+Full_KV,1.0,563,563,1.0,13836288,0.07368189999760943,0.2287560000004305,109.28675094840332,1361.83203125,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",14,Deployment Region,512,eu-central-1,True,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,563,282,0.5008880994671403,6930432,0.08078810000006342,0.22945640000034473,108.95316060028154,1361.46875,25, cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud,14,Deployment Region,512,eu-central-1,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,563,282,0.5008880994671403,6930432,0.0797893999988446,0.2168132999977388,115.30657944074801,1362.328125,25, eucentral1.1.1.1.1.1.1.1.1.1.1.1,14,Deployment Region,512,eu-central-1,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,563,282,0.5008880994671403,6930432,0.07769370000096387,0.22052110000004177,113.36783645644459,1362.34375,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",14,Deployment Region,512,eu-central-1,True,3,44,EleutherAI/pythia-70m,19.0
+Recent_Window,0.25,563,141,0.25044404973357015,3465216,0.07246419999864884,0.2016180999999051,123.9968038584421,1362.34375,25, production traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic traffic,14,Deployment Region,512,eu-central-1,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,563,141,0.25044404973357015,3465216,0.08381879999797093,0.21052270000291173,118.7520395646371,1362.30859375,25," eu-central cluster of the cluster.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region",14,Deployment Region,512,eu-central-1,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,563,141,0.25044404973357015,3465216,0.07222389999878942,0.20879619999686838,119.73397983476214,1362.30859375,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",14,Deployment Region,512,eu-central-1,True,3,44,EleutherAI/pythia-70m,19.0
+Recent_Window,0.125,563,70,0.12433392539964476,1720320,0.07894089999899734,0.2061336000006122,121.28056755388617,1362.328125,25," production traffic to newly published images for twenty minutes.
+
+=== REQUIRED SPECIFICATION RECALL ===
+De",14,Deployment Region,512,eu-central-1,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,563,70,0.12433392539964476,1720320,0.07536830000026384,0.2011528000002727,124.28362916134455,1362.328125,25, eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu eu,14,Deployment Region,512,eu-central-1,False,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,563,70,0.12433392539964476,1720320,0.07217579999996815,0.20957690000068396,119.28795587642728,1361.8359375,25," eu-central-1 region.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Deployment Region Rule",14,Deployment Region,512,eu-central-1,True,3,44,EleutherAI/pythia-70m,19.0
+Full_KV,1.0,554,554,1.0,13615104,0.09928769999896758,0.22893619999740622,109.20072928738767,1361.84375,25," 5 times before eviction.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Consumer Retry Rule:",15,Retry Limit,512,5,True,1,42,EleutherAI/pythia-70m,
+Recent_Window,0.5,554,277,0.5,6807552,0.07354609999674722,0.212268999999651,117.77508727153331,1361.47265625,25," 20 seconds across a single packet fragmentation. TCP window scaling enabled higher throughput across saturated gigabit backhaul links. 
+Database",15,Retry Limit,512,5,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.5,554,277,0.5,6807552,0.07160880000083125,0.24371049999899697,102.58072590267096,1362.33203125,25, 5 seconds. Consumer Retry Rule: Failed message consumers must retry at most 5 seconds. Consumer Retry Rule: Failed message,15,Retry Limit,512,5,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.5,554,277,0.5,6807552,0.08197819999986677,0.23457369999960065,106.57631268996721,1362.33203125,25," 5 times before eviction.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times before eviction.",15,Retry Limit,512,5,True,1,42,EleutherAI/pythia-70m,18.0
+Recent_Window,0.25,554,138,0.2490974729241877,3391488,0.07970449999993434,0.2098772999997891,119.11721753627059,1362.33203125,25, most most most most most most most most most most most most most most most most most most most most most most most most most,15,Retry Limit,512,5,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.25,554,138,0.2490974729241877,3391488,0.07283509999979287,0.20842799999809358,119.9454967673665,1362.31640625,25," 5 seconds.
+Consumer Retry Rule: Failed message consumers must retry at most 5 seconds.
+Consumer Retry Rule:",15,Retry Limit,512,5,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.25,554,138,0.2490974729241877,3391488,0.07294499999989057,0.2086420999985421,119.82241359809304,1362.31640625,25," 5 times before eviction.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times before eviction.",15,Retry Limit,512,5,True,1,42,EleutherAI/pythia-70m,18.0
+Recent_Window,0.125,554,69,0.12454873646209386,1695744,0.07435939999777474,0.20394760000272072,122.58050597146763,1362.23046875,25, most most most most most most most most most most most most most most most most most most most most most most most most most,15,Retry Limit,512,5,False,1,42,EleutherAI/pythia-70m,
+Attention_Guided,0.125,554,69,0.12454873646209386,1695744,0.07343869999749586,0.2051978000017698,121.8336648822959,1361.8359375,25," 5 seconds.
+Consumer Retry Rule: Failed message consumers must retry at least 5 seconds.
+Consumer Retry Rule:",15,Retry Limit,512,5,True,1,42,EleutherAI/pythia-70m,
+Protected_Attention,0.125,554,69,0.12454873646209386,1695744,0.0731856999991578,0.20680089999950724,120.88922243597378,1361.83984375,25," 5 times before eviction.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times before eviction.",15,Retry Limit,512,5,True,1,42,EleutherAI/pythia-70m,18.0
+Full_KV,1.0,554,554,1.0,13615104,0.07474999999976717,0.22611589999723947,110.5627689176445,1362.1015625,25," 5 times before eviction.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Consumer Retry Rule:",15,Retry Limit,512,5,True,2,43,EleutherAI/pythia-70m,
+Recent_Window,0.5,554,277,0.5,6807552,0.07043700000212993,0.2078975000003993,120.2515662764198,1361.734375,25," 20 seconds across a single packet fragmentation. TCP window scaling enabled higher throughput across saturated gigabit backhaul links. 
+Database",15,Retry Limit,512,5,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.5,554,277,0.5,6807552,0.06953710000016144,0.22858139999880223,109.37022872434503,1362.59375,25, 5 seconds. Consumer Retry Rule: Failed message consumers must retry at most 5 seconds. Consumer Retry Rule: Failed message,15,Retry Limit,512,5,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.5,554,277,0.5,6807552,0.0734253999980865,0.2146089000016218,116.49097497732421,1362.59375,25," 5 times before eviction.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times before eviction.",15,Retry Limit,512,5,True,2,43,EleutherAI/pythia-70m,18.0
+Recent_Window,0.25,554,138,0.2490974729241877,3391488,0.07333900000230642,0.20671320000110427,120.94051081337065,1362.59375,25, most most most most most most most most most most most most most most most most most most most most most most most most most,15,Retry Limit,512,5,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.25,554,138,0.2490974729241877,3391488,0.07095560000016121,0.23054740000225138,108.43757075445599,1362.578125,25," 5 seconds.
+Consumer Retry Rule: Failed message consumers must retry at most 5 seconds.
+Consumer Retry Rule:",15,Retry Limit,512,5,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.25,554,138,0.2490974729241877,3391488,0.07198000000062166,0.20745180000085384,120.50992085822878,1362.578125,25," 5 times before eviction.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times before eviction.",15,Retry Limit,512,5,True,2,43,EleutherAI/pythia-70m,18.0
+Recent_Window,0.125,554,69,0.12454873646209386,1695744,0.07372639999812236,0.20468370000162395,122.1396720882105,1362.46875,25, most most most most most most most most most most most most most most most most most most most most most most most most most,15,Retry Limit,512,5,False,2,43,EleutherAI/pythia-70m,
+Attention_Guided,0.125,554,69,0.12454873646209386,1695744,0.072244299997692,0.21320669999840902,117.25710308440848,1362.09765625,25," 5 seconds.
+Consumer Retry Rule: Failed message consumers must retry at least 5 seconds.
+Consumer Retry Rule:",15,Retry Limit,512,5,True,2,43,EleutherAI/pythia-70m,
+Protected_Attention,0.125,554,69,0.12454873646209386,1695744,0.07834789999833447,0.21403880000070785,116.80125285657238,1362.1015625,25," 5 times before eviction.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times before eviction.",15,Retry Limit,512,5,True,2,43,EleutherAI/pythia-70m,18.0
+Full_KV,1.0,554,554,1.0,13615104,0.07259469999917201,0.22817850000137696,109.56334623923435,1362.109375,25," 5 times before eviction.
+
+=== REQUIRED SPECIFICATION RECALL ===
+Consumer Retry Rule:",15,Retry Limit,512,5,True,3,44,EleutherAI/pythia-70m,
+Recent_Window,0.5,554,277,0.5,6807552,0.07323509999696398,0.22642659999837633,110.41105594563214,1361.7421875,25," 20 seconds across a single packet fragmentation. TCP window scaling enabled higher throughput across saturated gigabit backhaul links. 
+Database",15,Retry Limit,512,5,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.5,554,277,0.5,6807552,0.07827610000094865,0.24127450000014505,103.6164203012957,1362.6015625,25, 5 seconds. Consumer Retry Rule: Failed message consumers must retry at most 5 seconds. Consumer Retry Rule: Failed message,15,Retry Limit,512,5,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.5,554,277,0.5,6807552,0.08233649999965564,0.22089169999890146,113.17763410813684,1362.6015625,25," 5 times before eviction.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times before eviction.",15,Retry Limit,512,5,True,3,44,EleutherAI/pythia-70m,18.0
+Recent_Window,0.25,554,138,0.2490974729241877,3391488,0.07503119999819319,0.234576200000447,106.57517685064539,1362.6015625,25, most most most most most most most most most most most most most most most most most most most most most most most most most,15,Retry Limit,512,5,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.25,554,138,0.2490974729241877,3391488,0.09032220000153757,0.21991160000106902,113.68204314769422,1362.5859375,25," 5 seconds.
+Consumer Retry Rule: Failed message consumers must retry at most 5 seconds.
+Consumer Retry Rule:",15,Retry Limit,512,5,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.25,554,138,0.2490974729241877,3391488,0.09257549999892944,0.24549019999903976,101.83705907648365,1362.5859375,25," 5 times before eviction.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times before eviction.",15,Retry Limit,512,5,True,3,44,EleutherAI/pythia-70m,18.0
+Recent_Window,0.125,554,69,0.12454873646209386,1695744,0.09396909999850322,0.23103679999985616,108.20786991516314,1362.4765625,25, most most most most most most most most most most most most most most most most most most most most most most most most most,15,Retry Limit,512,5,False,3,44,EleutherAI/pythia-70m,
+Attention_Guided,0.125,554,69,0.12454873646209386,1695744,0.07441539999854285,0.225563100000727,110.83373122607122,1362.10546875,25," 5 seconds.
+Consumer Retry Rule: Failed message consumers must retry at least 5 seconds.
+Consumer Retry Rule:",15,Retry Limit,512,5,True,3,44,EleutherAI/pythia-70m,
+Protected_Attention,0.125,554,69,0.12454873646209386,1695744,0.09240300000237767,0.21712159999879077,115.1428508270906,1362.109375,25," 5 times before eviction.
+Consumer Retry Rule: Failed message consumers must retry at most 5 times before eviction.",15,Retry Limit,512,5,True,3,44,EleutherAI/pythia-70m,18.0
